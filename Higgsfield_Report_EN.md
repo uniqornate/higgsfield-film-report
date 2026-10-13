@@ -2,11 +2,11 @@
 
 As of: 2026-10-13
 
-Reviewed film set: **4,572 entries**. This is the previously reviewed set, not a full inventory of the Higgsfield platform.
+Reviewed film set: **4,561 entries**. Higgsfield Studio productions are excluded. This is the previously reviewed set, not a full inventory of the Higgsfield platform.
 
-Total published credits spent: **26,626,054**. Coverage: 4,570/4,572 film entries.
-Total published project size: **26,326.759 GB**. Coverage: 4,570/4,572. Sizes are rounded by the source, so this sum is approximate.
-Total published generations: **2,293,705**.
+Total published credits spent: **26,626,054**. Coverage: 4,561/4,561 film entries.
+Total published project size: **26,326.759 GB**. Coverage: 4,561/4,561. Sizes are rounded by the source, so this sum is approximate.
+Total published generations: **1,613,831**.
 
 ## Model weights
 
@@ -4161,577 +4161,566 @@ Sorted by published credits spent, highest first. Original film titles are prese
 | 4003 | Abhimanyu | newmansandwich1651 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@newmansandwich1651/projects/abhimanyu) |
 | 4004 | Across The Street | banksy_blueberry_9000 | 0 | 0.0004 | 0 | Not available | [Source](https://higgsfield.ai/@banksy_blueberry_9000/projects/across-the-street) |
 | 4005 | adam | kleecookie1492 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@kleecookie1492/projects/adam) |
-| 4006 | Adiliada | Higgsfield Studio | 0 | 0.0000 | 11,023 | Not available | [Source](https://higgsfield.ai/@higgsfield.studio/projects/adiliada) |
-| 4007 | AI film 1 | craftsman_tadpole_gnarly | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@craftsman_tadpole_gnarly/projects/ai-film-1) |
-| 4008 | AI Film Festival | picassotaco1785 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@picassotaco1785/projects/ai-film-festival) |
-| 4009 | AI Film Festival | residentialopossum1735 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@residentialopossum1735/projects/ai-film-festival) |
-| 4010 | AI Film Festival | chilling_porcupine_42 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@chilling_porcupine_42/projects/ai-film-festival) |
-| 4011 | AI Film Festival | gefa03 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@gefa03/projects/ai-film-festival) |
-| 4012 | AI Film Festival | baxa | 0 | 1.1000 | 0 | Not available | [Source](https://higgsfield.ai/@baxa/projects/) |
-| 4013 | AI Film Festival | rodinwater1422 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@rodinwater1422/projects/ai-film-festival) |
-| 4014 | AI Film Festival | kenator | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@kenator/projects/ai-film-festival) |
-| 4015 | AI Film Festival | rothkoavocado1867 | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@rothkoavocado1867/projects/ai-film-festival) |
-| 4016 | AI Film Festival | deconstructivistaxolotl1371 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@deconstructivistaxolotl1371/projects/ai-film-festival) |
-| 4017 | AI Film Festival | designingfalcon1448 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@designingfalcon1448/projects/ai-film-festival) |
-| 4018 | AI Film Festival | alifarrr | 0 | 6.0000 | 0 | Not available | [Source](https://higgsfield.ai/@alifarrr/projects/ai-film-festival) |
-| 4019 | AI Film Festival | impressionistjuice1621 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@impressionistjuice1621/projects/ai-film-festival) |
-| 4020 | AI Film Festival | dreaming_rainbow_sigma | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@dreaming_rainbow_sigma/projects/ai-film-festival) |
-| 4021 | AI Film Festival | reyasvai5 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@reyasvai5/projects/ai-film-festival) |
-| 4022 | AI Film Festival | bouncingmanatee1394 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bouncingmanatee1394/projects/ai-film-festival) |
-| 4023 | AI Film Festival | synthwavejuice1663 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@synthwavejuice1663/projects/ai-film-festival) |
-| 4024 | AI Film Festival | bouncingcupcake1191 | 0 | 3.2000 | 1 | Nano Banana Pro (100.0000%) | [Source](https://higgsfield.ai/@bouncingcupcake1191/projects/ai-film-festival) |
-| 4025 | AI Film Festival | rionenn5416 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@rionenn5416/projects/ai-film-festival) |
-| 4026 | AI Film Festival | leonardosun1901 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@leonardosun1901/projects/ai-film-festival) |
-| 4027 | AI Film Festival | hospitalitysloth1646 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@hospitalitysloth1646/projects/ai-film-festival) |
-| 4028 | AI Film Festival | discoveringtea1493 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@discoveringtea1493/projects/ai-film-festival) |
-| 4029 | AI Film Festival | botticellionion1816 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@botticellionion1816/projects/ai-film-festival) |
-| 4030 | AI Film Festival | modularfalcon1891 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@modularfalcon1891/projects/ai-film-festival) |
-| 4031 | AI Film Festival | sunilnarnaulia | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@sunilnarnaulia/projects/ai-film-festival) |
-| 4032 | AI Film Festival | immybwj | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@immybwj/projects/ai-film-festival) |
-| 4033 | AI Film Festival | kirillvizualizer | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@kirillvizualizer/projects/ai-film-festival) |
-| 4034 | AI Film Festival | vibinggrape1501 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@vibinggrape1501/projects/ai-film-festival) |
-| 4035 | AI Film Festival | relaxing_coffee_x | 0 | 2.5000 | 54 | Seedance 2.5 (62.9630%); Seedream 4.5 (16.6667%); Nano Banana 2 (9.2593%); Kling O1 Image (5.5556%); Seedance 2.0 Mini Unlimited (1.8519%); Enhanced Seedance 2.0 Fast Unlimited (1.8519%); FLUX.2 (1.8519%) | [Source](https://higgsfield.ai/@relaxing_coffee_x/projects/ai-film-festival) |
-| 4036 | AI Film Festival | romanesquecapybara1836 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@romanesquecapybara1836/projects/ai-film-festival) |
-| 4037 | AI Film Festival | singingpretzel_mega | 0 | 0.9433 | 0 | Not available | [Source](https://higgsfield.ai/@singingpretzel_mega/projects/ai-film-festival) |
-| 4038 | AI Film Festival | victorianworm1708 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@victorianworm1708/projects/ai-film-festival) |
-| 4039 | AI Film Festival | glitchtomato_wild | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@glitchtomato_wild/projects/ai-film-festival) |
-| 4040 | AI Film Festival | robxn | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@robxn/projects/ai-film-festival) |
-| 4041 | AI Film Festival | thinkingbanana1475 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@thinkingbanana1475/projects/ai-film-festival) |
-| 4042 | AI Film Festival | rafael_reis | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@rafael_reis/projects/ai-film-festival) |
-| 4043 | AI Film Festival | monahlive | 0 | 2.5000 | 1 | Nano Banana Pro (100.0000%) | [Source](https://higgsfield.ai/@monahlive/projects/ai-film-festival) |
-| 4044 | AI Film Festival | matisse_rock_max | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@matisse_rock_max/projects/ai-film-festival) |
-| 4045 | AI Film Festival | eleganteraser1306 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@eleganteraser1306/projects/ai-film-festival) |
-| 4046 | AI Film Festival | victorianbison1808 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@victorianbison1808/projects/ai-film-festival) |
-| 4047 | AI Film Festival | gothiccarrot1678 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@gothiccarrot1678/projects/ai-film-festival) |
-| 4048 | AI Film Festival | morphingcarrot1319 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@morphingcarrot1319/projects/ai-film-festival) |
-| 4049 | AI Film Festival | runningwalrus1377 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@runningwalrus1377/projects/ai-film-festival) |
-| 4050 | AI Film Festival | theatrehiversolidaire | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@theatrehiversolidaire/projects/ai-film-festival) |
-| 4051 | AI Film Festival | commercialcamel1808 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@commercialcamel1808/projects/ai-film-festival) |
-| 4052 | AI Film Festival | speedingseal1406 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@speedingseal1406/projects/ai-film-festival) |
-| 4053 | AI Film Festival | annadaatafood | 0 | 3.4000 | 0 | Not available | [Source](https://higgsfield.ai/@annadaatafood/projects/ai-film-festival) |
-| 4054 | AI Film Festival | thinkingpelican_x | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@thinkingpelican_x/projects/ai-film-festival) |
-| 4055 | AI Film Festival | yakovco44 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@yakovco44/projects/ai-film-festival) |
-| 4056 | AI Film Festival | cauchydolphin1689 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@cauchydolphin1689/projects/ai-film-festival) |
-| 4057 | AI Film Festival | etherealbeetle1410 | 0 | 4.3000 | 0 | Not available | [Source](https://higgsfield.ai/@etherealbeetle1410/projects/ai-film-festival) |
-| 4058 | AI Film Festival | fluidbroccoli1671 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@fluidbroccoli1671/projects/ai-film-festival) |
-| 4059 | AI Film Festival | kandinskypotato1588 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@kandinskypotato1588/projects/ai-film-festival) |
-| 4060 | AI Film Festival | sol610 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@sol610/projects/ai-film-festival) |
-| 4061 | AI Film Festival | zmeysab | 0 | 9.3000 | 0 | Not available | [Source](https://higgsfield.ai/@zmeysab/projects/ai-film-festival) |
-| 4062 | AI Film Festival | highriseaxolotl1783 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@highriseaxolotl1783/projects/ai-film-festival) |
-| 4063 | AI Film Festival | lewisshiffy | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@lewisshiffy/projects/ai-film-festival) |
-| 4064 | AI Film Festival | learningquokka1209 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@learningquokka1209/projects/ai-film-festival) |
-| 4065 | AI Film Festival | sharperaser1688 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@sharperaser1688/projects/ai-film-festival) |
-| 4066 | AI Film Festival | adaptiveraccoon1408 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@adaptiveraccoon1408/projects/ai-film-festival) |
-| 4067 | AI Film Festival | brewingcheese_dope | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@brewingcheese_dope/projects/ai-film-festival) |
-| 4068 | AI Film Festival | abramoviccheese1585 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@abramoviccheese1585/projects/ai-film-festival) |
-| 4069 | AI Film Festival | einsteinhippo1523 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@einsteinhippo1523/projects/ai-film-festival) |
-| 4070 | AI Film Festival | rococo_rainbow | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@rococo_rainbow/projects/ai-film-festival) |
-| 4071 | AI Film Festival | adaptivebeluga_radical | 0 | 3.1000 | 0 | Not available | [Source](https://higgsfield.ai/@adaptivebeluga_radical/projects/ai-film-festival) |
-| 4072 | AI Film Festival | goyaapple1755 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@goyaapple1755/projects/ai-film-festival) |
-| 4073 | AI Film Festival | tschai61 | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@tschai61/projects/ai-film-festival) |
-| 4074 | AI Film Festival | vibing_lamp_2000 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@vibing_lamp_2000/projects/ai-film-festival) |
-| 4075 | AI Film Festival | gausslion1797 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@gausslion1797/projects/ai-film-festival) |
-| 4076 | AI Film Festival | surrealbagel1340 | 0 | 2.1000 | 1 | Higgsfield Genjutsu - Motion Transfer (100.0000%) | [Source](https://higgsfield.ai/@surrealbagel1340/projects/ai-film-festival) |
-| 4077 | AI Film Festival | dramaticcake_max | 0 | 4.7000 | 0 | Not available | [Source](https://higgsfield.ai/@dramaticcake_max/projects/ai-film-festival) |
-| 4078 | AI Film Festival | dangerous83 | 0 | 3.0000 | 0 | Not available | [Source](https://higgsfield.ai/@dangerous83/projects/ai-film-festival) |
-| 4079 | AI Film Festival | driftingcapybara1420 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@driftingcapybara1420/projects/ai-film-festival) |
-| 4080 | AI Film Festival | bsg_studios | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@bsg_studios/projects/ai-film-festival) |
-| 4081 | AI Film Festival | adventuring_pencil_404 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@adventuring_pencil_404/projects/ai-film-festival) |
-| 4082 | AI Film Festival | einsteinfox1412 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@einsteinfox1412/projects/ai-film-festival) |
-| 4083 | AI Film Festival | basquiatsun1569 | 0 | 2.1000 | 4 | Soul Cinematic (75.0000%); Seedream 4.5 (25.0000%) | [Source](https://higgsfield.ai/@basquiatsun1569/projects/ai-film-festival) |
-| 4084 | AI Film Festival | caravaggiosun_super | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@caravaggiosun_super/projects/ai-film-festival) |
-| 4085 | AI Film Festival | mccarthydragonfly1438 | 0 | 2.1000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@mccarthydragonfly1438/projects/ai-film-festival) |
-| 4086 | AI Film Festival "Deep End" a film by Shahid Gill | aiwoodstudio | 0 | 3.8000 | 0 | Not available | [Source](https://higgsfield.ai/@aiwoodstudio/projects/ai-film-festival-deep-end-a-film-by-shahid-gill) |
-| 4087 | AI Film Festival ( Les frontières du coeur ) | stephanezelou | 0 | 3.2000 | 0 | Not available | [Source](https://higgsfield.ai/@stephanezelou/projects/ai-film-festival-les-fronti-res-du-coeur) |
-| 4088 | AI Film Festival - 0% | brutalistdragonfly1419 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@brutalistdragonfly1419/projects/ai-film-festival-0) |
-| 4089 | AI Film Festival - Beyond Earth | seoulstreamingstation | 0 | 4.4000 | 0 | Not available | [Source](https://higgsfield.ai/@seoulstreamingstation/projects/ai-film-festival-beyond-earth) |
-| 4090 | AI Film Festival - Explorers of unknow | khajiter | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@khajiter/projects/ai-film-festival-explorers-of-unknow) |
-| 4091 | AI Film Festival - Into The Anaconda's Shadow | deconstructivist_newt_1075 | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@deconstructivist_newt_1075/projects/ai-film-festival-into-the-anaconda-s-shadow) |
-| 4092 | AI Film Festival - Sovereign Ascent | victorianflamingo1165 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@victorianflamingo1165/projects/ai-film-festival-sovereign-ascent) |
-| 4093 | AI Film Festival 2 | guillegraphy | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@guillegraphy/projects/ai-film-festival-2) |
-| 4094 | AI Film Festival 2 | modernistpangolin1792 | 0 | 5.0000 | 0 | Not available | [Source](https://higgsfield.ai/@modernistpangolin1792/projects/ai-film-festival-2) |
-| 4095 | AI Film Festival 2 | prairiehawk1551 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@prairiehawk1551/projects/ai-film-festival-2) |
-| 4096 | AI Film Festival 2 | brutalistmuffin1590 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@brutalistmuffin1590/projects/ai-film-festival-2) |
-| 4097 | AI Film Festival 2 | soaringtiger1293 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@soaringtiger1293/projects/ai-film-festival-2) |
-| 4098 | AI Film Festival 2 | hokusaipretzel1871 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@hokusaipretzel1871/projects/ai-film-festival-2) |
-| 4099 | AI Film Festival 2 | warholcake1540 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@warholcake1540/projects/ai-film-festival-2) |
-| 4100 | AI Film Festival 2 | lifestylesupplies | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@lifestylesupplies/projects/ai-film-festival-2) |
-| 4101 | AI Film Festival 2 | fermatwolf_meme | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@fermatwolf_meme/projects/ai-film-festival-2) |
-| 4102 | AI Film Festival 2 | retail_beetle_1005 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@retail_beetle_1005/projects/ai-film-festival-2) |
-| 4103 | AI Film Festival 2 | bakingfalcon1407 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@bakingfalcon1407/projects/ai-film-festival-2) |
-| 4104 | AI Film Festival 2 | caravaggiosun_super | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@caravaggiosun_super/projects/ai-film-festival-2) |
-| 4105 | AI Film Festival 2 | innerseed | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@innerseed/projects/ai-film-festival-2) |
-| 4106 | AI Film Festival 2 | skippingpepper1467 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@skippingpepper1467/projects/ai-film-festival-2) |
-| 4107 | AI Film Festival 2 | afrikawest | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@afrikawest/projects/ae92843b-6fe3-4083-9c29-a305c1d49c5a) |
-| 4108 | AI Film Festival 2 | cantorraven1702 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@cantorraven1702/projects/ai-film-festival-2) |
-| 4109 | AI Film Festival 2 | parametriccaterpillar1857 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@parametriccaterpillar1857/projects/) |
-| 4110 | AI Film Festival 2 | craftsmanbutterfly1450 | 0 | 4.0000 | 72 | Nano Banana Pro Unlimited (63.8889%); Kling 3 Unlimited (36.1111%) | [Source](https://higgsfield.ai/@craftsmanbutterfly1450/projects/ai-film-festival-2) |
-| 4111 | AI Film Festival 2 | ishaanpatel11 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@ishaanpatel11/projects/ai-film-festival-2) |
-| 4112 | AI Film Festival 2 | culturalllama1846 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@culturalllama1846/projects/ai-film-festival-2) |
-| 4113 | AI Film Festival 2 ( 𝑻𝑯𝑬 𝑳𝑨𝑺𝑻 𝑯𝑬𝑰𝑺𝑻  33 MIN SHORT MOVIE ) | gothicshrimp1786 | 0 | 3.6000 | 0 | Not available | [Source](https://higgsfield.ai/@gothicshrimp1786/projects/ai-film-festival-2-the-last-heist) |
-| 4114 | AI Film Festival 2. The future worth living in | minimaliststar1514 | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@minimaliststar1514/projects/ai-film-festival-2-the-future-worth-living-in) |
-| 4115 | AI Film Festival 3 | relaxingplatypus1259 | 0 | 1.1000 | 0 | Not available | [Source](https://higgsfield.ai/@relaxingplatypus1259/projects/ai-film-festival-3) |
-| 4116 | AI Film Festival 3 | greenbuffalo1797 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@greenbuffalo1797/projects/ai-film-festival-3) |
-| 4117 | AI Film Festival 3 | wakingpretzel1518 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@wakingpretzel1518/projects/ai-film-festival-3) |
-| 4118 | AI Film Festival 3 | buildingpickle1070 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@buildingpickle1070/projects/ai-film-festival-3) |
-| 4119 | AI Film Festival 3 | descartesbeluga_nova | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@descartesbeluga_nova/projects/ai-film-festival-3) |
-| 4120 | AI Film Festival 3 | sharif1704 | 0 | 2.0000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@sharif1704/projects/ai-film-festival-3) |
-| 4121 | AI Film Festival 3 | michi_lux | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@michi_lux/projects/ai-film-festival-3) |
-| 4122 | AI Film Festival 3 | wakingpelican1468 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@wakingpelican1468/projects/ai-film-festival-3) |
-| 4123 | AI Film Festival 3 | bauhauscroissant1416 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bauhauscroissant1416/projects/ai-film-festival-3) |
-| 4124 | AI Film Festival 4 | sha_higgs | 0 | 2.1000 | 19 | Soul Cinematic (84.2105%); Higgsfield Soul V2 (15.7895%) | [Source](https://higgsfield.ai/@sha_higgs/projects/ai-film-festival-4) |
-| 4125 | AI Film Festival 4 | vignesh2_1 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@vignesh2_1/projects/ai-film-festival-4) |
-| 4126 | AI Film Festival 4 | feynman_platypus_epic | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@feynman_platypus_epic/projects/ai-film-festival-4) |
-| 4127 | AI Film Festival 4 | ramanujanchinchilla1579 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@ramanujanchinchilla1579/projects/ai-film-festival-4) |
-| 4128 | AI Film Festival 4 | fauvetea1580 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@fauvetea1580/projects/ai-film-festival-4) |
-| 4129 | AI Film Festival 5 | playfulrainbow_cult | 0 | 2.7000 | 0 | Not available | [Source](https://higgsfield.ai/@playfulrainbow_cult/projects/ai-film-festival-5) |
-| 4130 | AI Film Festival 5 | siang86 | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@siang86/projects/ai-film-festival-5) |
-| 4131 | AI Film Festival AD | trainingbutterfly1398 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@trainingbutterfly1398/projects/ai-film-festival-ad) |
-| 4132 | AI Film Festival Pedro | racingfrog1327 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@racingfrog1327/projects/ai-film-festival-pedro) |
-| 4133 | AI Film Festival submission: Ghostsync | mixingrainbow1340 | 0 | 2.7000 | 0 | Not available | [Source](https://higgsfield.ai/@mixingrainbow1340/projects/ai-film-festival-submission) |
-| 4134 | AI Film Festival Try | playfulbanana1585 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@playfulbanana1585/projects/ai-film-festival-try) |
-| 4135 | AI Film Festival \| Ravens In My Head | wender_tatu | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@wender_tatu/projects/ai-film-festival-ravens-in-my-head) |
-| 4136 | AI Film FestivalTHE COSMIC DANCE  -  A Creation Myth | civicdragonfly1601 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@civicdragonfly1601/projects/ai-film-festivalthe-cosmic-dance-a-creation-myth) |
-| 4137 | Aionverse Chapter: 1 | jammingburrito1107 | 0 | 4.9000 | 0 | Not available | [Source](https://higgsfield.ai/@jammingburrito1107/projects/aionverse-chapter-1) |
-| 4138 | Aktous Finding | antongranik | 0 | 3.8000 | 0 | Not available | [Source](https://higgsfield.ai/@antongranik/projects/aktous-finding) |
-| 4139 | Alaska | neonemerald1627 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@neonemerald1627/projects/alaska) |
-| 4140 | Alice in the Cubicle | nashhedgehog1547 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@nashhedgehog1547/projects/alice-in-the-cubicle) |
-| 4141 | Alien City | racingkangaroo1336 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@racingkangaroo1336/projects/alien-city) |
-| 4142 | ALIENOPES | rahul_jay_06 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@rahul_jay_06/projects/ai-film-festival-3) |
-| 4143 | Alina | theroomfilms | 0 | 5.1000 | 0 | Not available | [Source](https://higgsfield.ai/@theroomfilms/projects/alina) |
-| 4144 | America 250: The Baldwin Freegle Story | magneticbehavior | 0 | 1.4000 | 0 | Not available | [Source](https://higgsfield.ai/@magneticbehavior/projects/america-250-the-baldwin-freegle-story) |
-| 4145 | An Almost Too Sweet Story『あまりにあま〜い物語』 | yuuyoa | 0 | 1.1000 | 0 | Not available | [Source](https://higgsfield.ai/@yuuyoa/projects/an-almost-too-sweet-story) |
-| 4146 | ANADIPLOSIS | annehorel | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@annehorel/projects/anadiplosis) |
-| 4147 | Animal World | ramanujandeer1683 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@ramanujandeer1683/projects/animal-world) |
-| 4148 | Apex Velocity : F1 | ratebboulaich | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@ratebboulaich/projects/apex-velocity-f1) |
-| 4149 | ARCANEPUNK | dijkstra_dolphin_chad | 0 | 3.7000 | 0 | Not available | [Source](https://higgsfield.ai/@dijkstra_dolphin_chad/projects/arcanepunk) |
-| 4150 | Archetypes | kangaroo_dynasty | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@kangaroo_dynasty/projects/archetypes) |
-| 4151 | AROUSA | hoopas | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@hoopas/projects/arousa) |
-| 4152 | Aruan & the Clan of Shadows | germano_gomes_adj | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@germano_gomes_adj/projects/aruan-the-clan-of-shadows) |
-| 4153 | Ascent | adaptingeagle1320 | 0 | 2.6000 | 14 | Seedream 4.5 (100.0000%) | [Source](https://higgsfield.ai/@adaptingeagle1320/projects/ascent) |
-| 4154 | AURA | lejardinier | 0 | 6.3000 | 228 | Seedance 2.5 (59.2105%); Soul Cinematic (21.9298%); Nano Banana Pro (9.6491%); Cinematic Studio Soul Location (5.2632%); Nano Banana 2 (1.7544%); Seedream 5.0 Pro (1.3158%); Bytedance Video Upscale (0.4386%); Higgsfield Soul V2 (0.4386%) | [Source](https://higgsfield.ai/@lejardinier/projects/aura) |
-| 4155 | Aya's best day | madi_zhagi | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@madi_zhagi/projects/aya-s-best-day) |
-| 4156 | Back from Dead, Twice! | mixed_useotter1763 | 0 | 2.7000 | 0 | Not available | [Source](https://higgsfield.ai/@mixed_useotter1763/projects/back-from-dead-twice) |
-| 4157 | BACKSTITCH | throbbingpie1344 | 0 | 2.0000 | 1 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@throbbingpie1344/projects/backstitch) |
-| 4158 | Bad dream | residentialshrimp1561 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@residentialshrimp1561/projects/bad-dream) |
-| 4159 | Bad Trip (Festival Entry) | xre99 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@xre99/projects/bad-trip-festival-entry) |
-| 4160 | Bangladesh, Through Our Eyes  -  An AI Film | streamingblueberry1439 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@streamingblueberry1439/projects/ai-film-festival-2) |
-| 4161 | bbailarovb - AI Film Festival | bbailarovb | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bbailarovb/projects/bbailarovb-ai-film-festival) |
-| 4162 | BE FREE | bnbcreators | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@bnbcreators/projects/be-freee) |
-| 4163 | BEAST AND THE BEAUTY | driftingferret1043 | 0 | 3.1000 | 0 | Not available | [Source](https://higgsfield.ai/@driftingferret1043/projects/beast-and-the-beauty) |
-| 4164 | Beauty East | curiecamel1703 | 0 | 2.4000 | 34 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@curiecamel1703/projects/acc12b6f-8651-455d-ba79-89a1450c128c) |
-| 4165 | BEFORE THE GODS AWAKEN | himesh_landge | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@himesh_landge/projects/before-the-gods-awaken) |
-| 4166 | Before the Sun Forgets | saqibalii | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@saqibalii/projects/before-the-sun-forgets) |
-| 4167 | Before you leave | ramaonline | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@ramaonline/projects/before-you-leave) |
-| 4168 | BENEATH THE PINES | tselcinema | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@tselcinema/projects/beneath-the-pines) |
-| 4169 | Beowulf ep 1 | theuniversalvideopedia | 0 | 4.9000 | 0 | Not available | [Source](https://higgsfield.ai/@theuniversalvideopedia/projects/beowulf-ep-1) |
-| 4170 | BEOWULF  -  THE NIGHT OF GRENDEL | hyperrealisticstar1427 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@hyperrealisticstar1427/projects/beowulf-the-night-of-grendel) |
-| 4171 | Bernardo O'Higgins El Legado | dircom | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@dircom/projects/bernardo-o-higgins-el-legado) |
-| 4172 | Black Silence | drawingbeluga1165 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@drawingbeluga1165/projects/ai-film-festival) |
-| 4173 | Blood Bind | jahviiee | 0 | 2.7000 | 0 | Not available | [Source](https://higgsfield.ai/@jahviiee/projects/blood-bind) |
-| 4174 | Blood Sisters | marileda | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@marileda/projects/blood-sisters-ai-film-festival) |
-| 4175 | BLUNT 花 | nandayotime | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@nandayotime/projects/blunt) |
-| 4176 | BOOZ, BRAIN & BLUES | mrhoures | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@mrhoures/projects/booz-brain-blues) |
-| 4177 | Borrowed Hands | glowingplanet1448 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@glowingplanet1448/projects/borrowed-hands) |
-| 4178 | Bruce the Blueberry Moose sings ‘Blueberry Blue’ | mystical_chap | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mystical_chap/projects/bruce-the-blueberry-moose-sings-blueberry-blue) |
-| 4179 | Calling From Tomorrow | highrisenewt1601 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@highrisenewt1601/projects/calling-from-tomorrow) |
-| 4180 | Canvas \| Pt.1 | bellasoulart | 0 | 4.0000 | 81 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@bellasoulart/projects/canvas) |
-| 4181 | Chronologue | tvnet | 0 | 3.0000 | 151 | Seedance 2.5 (57.6159%); Higgsfield Soul V2 (34.4371%); Cinematic Studio Soul Location (5.2980%); Nano Banana Pro (2.6490%) | [Source](https://higgsfield.ai/@tvnet/projects/chronologue) |
-| 4182 | City of Chengdu - 4.5K Years Timelapse | flyingdugong1283 | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@flyingdugong1283/projects/city-of-chengdu-4-5k-years-timelapse) |
-| 4183 | Cleopatra | throbbingwalrus1096 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@throbbingwalrus1096/projects/cleopatra) |
-| 4184 | Clockwork Eclipse | jumpingbook1449 | 0 | 7.1000 | 39 | Seedance 2.0 Unlimited (100.0000%) | [Source](https://higgsfield.ai/@jumpingbook1449/projects/clockwork-eclipse) |
-| 4185 | Clu:Kennwort | turinghedgehog1543 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@turinghedgehog1543/projects/clu-kennwort) |
-| 4186 | Come With Us | jackmcm | 0 | 3.4000 | 39 | Seedance 2.5 (94.8718%); Higgsfield Soul V2 (5.1282%) | [Source](https://higgsfield.ai/@jackmcm/projects/come-with-us) |
-| 4187 | Companion | degasdiamond_3000 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@degasdiamond_3000/projects/companion) |
-| 4188 | CONSENT | runninggrape1449 | 0 | 3.2000 | 1 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@runninggrape1449/projects/consent) |
-| 4189 | CORA | frsama | 0 | 5.4000 | 0 | Not available | [Source](https://higgsfield.ai/@frsama/projects/cora) |
-| 4190 | CREDITS NEEDED - WINNING POTENTIAL FILM FESTIVAL ENTRY | lightskaiaaction | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@lightskaiaaction/projects/credits-needed-winning-potential-film-festival-entry) |
-| 4191 | Crimson Hearts | onayef | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@onayef/projects/crimson) |
-| 4192 | CTRL+ALT+DELETE INTRO | van_goghdrone1755 | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@van_goghdrone1755/projects/ctrl-alt-delete-intro) |
-| 4193 | Dance of the Soul | mohammedghanemscenography | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mohammedghanemscenography/projects/ai-film-festival) |
-| 4194 | DATE 2046 | bourgeoisbroccoli1444 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bourgeoisbroccoli1444/projects/date-2046) |
-| 4195 | Day and Night | jodzi | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@jodzi/projects/day-and-night) |
-| 4196 | DayDream: Bronze One: Path of Awakening- Chapter 1 | evolvingpangolin1247 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@evolvingpangolin1247/projects/daydream-bronze-one-path-of-awakening-chapter-1) |
-| 4197 | DEADMAN'S VALLEY: SEVEN SINS OF EARTH 35 | pointillistsapphire1516 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@pointillistsapphire1516/projects/deadman-s-valley-seven-sins-of-earth-35) |
-| 4198 | Death's Performance Review | sporkmaster269 | 0 | 3.2000 | 0 | Not available | [Source](https://higgsfield.ai/@sporkmaster269/projects/death-s-performance-review) |
-| 4199 | DELETE + U | fluidgem1143 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@fluidgem1143/projects/delete-u) |
-| 4200 | Desert Rose | massimilianomaugeri70 | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@massimilianomaugeri70/projects/desert-rose) |
-| 4201 | DESTINY'S EMBRACE | mswonder | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@mswonder/projects/destiny-s-embrace) |
-| 4202 | Deus Ex Machina | wwwwooyeon | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@wwwwooyeon/projects/deus-ex-machina) |
-| 4203 | Die Young | baroquemoon1297 | 0 | 2.0000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@baroquemoon1297/projects/die-young) |
-| 4204 | Dirty Dagoes | m45uk1 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@m45uk1/projects/dirty-dagoes) |
-| 4205 | Disappearing | picassoblueberry1579 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@picassoblueberry1579/projects/disappearing) |
-| 4206 | Domino World | parametric_seahorse_special | 0 | 2.1000 | 16 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@parametric_seahorse_special/projects/domino-world) |
-| 4207 | don’t Answer | marwanhilal | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@marwanhilal/projects/don-t-answer) |
-| 4208 | door gods | synthwaveapple1543 | 0 | 1.6000 | 45 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@synthwaveapple1543/projects/new) |
-| 4209 | DRACO's FORTUNE | demetris101 | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@demetris101/projects/ai-film-festival-3) |
-| 4210 | Dragon Fly | highrise_anglerfish_1103 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@highrise_anglerfish_1103/projects/dragon-fly) |
-| 4211 | Draugr | yupekreativ | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@yupekreativ/projects/draugr) |
-| 4212 | DREAM | modernpotato1500 | 0 | 4.3000 | 0 | Not available | [Source](https://higgsfield.ai/@modernpotato1500/projects/dream) |
-| 4213 | DREAM WITHIN A DREAM | zephyrox | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@zephyrox/projects/dream-within-a-dream) |
-| 4214 | DROPLET | avoidedentertainment2001 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@avoidedentertainment2001/projects/droplet) |
-| 4215 | Drowning in Black | keremarslan | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@keremarslan/projects/drowning-in-black) |
-| 4216 | Drug Chase | tushar_sadioura | 0 | 1.1000 | 0 | Not available | [Source](https://higgsfield.ai/@tushar_sadioura/projects/drug-chase) |
-| 4217 | Echoes of Tomorrow | surrealbanana1443 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@surrealbanana1443/projects/echoes-of-tomorrow) |
-| 4218 | EDEN | eschercookie1504 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@eschercookie1504/projects/eden) |
-| 4219 | Eggo Short film | cultural_dolphin_supreme | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@cultural_dolphin_supreme/projects/eggo-short-film) |
-| 4220 | EL DICTATOR  -  THE TRAINING | yodamasta | 0 | 2.9000 | 0 | Not available | [Source](https://higgsfield.ai/@yodamasta/projects/el-dictator-the-training) |
-| 4221 | el mismo dia | trainingmoon1526 | 0 | 2.1000 | 19 | Nano Banana 2 (100.0000%) | [Source](https://higgsfield.ai/@trainingmoon1526/projects/el-mismo-dia) |
-| 4222 | Elements Vs Pollution | knuthcamel1375 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@knuthcamel1375/projects/ai-film-festival) |
-| 4223 | End of summer | ao_ai_creator | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@ao_ai_creator/projects/ai-film-festival) |
-| 4224 | EXILED HEROES | baraazayd | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@baraazayd/projects/exiled-heroes) |
-| 4225 | Faith | craftsmanraccoon1793 | 0 | 1.2000 | 1 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@craftsmanraccoon1793/projects/c1a9a79c-e4a4-4cca-9592-1a790d23d516) |
-| 4226 | False Pareidolia | gonzalosagredogonzalez | 0 | 2.3000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@gonzalosagredogonzalez/projects/false-pareidolia) |
-| 4227 | far/close | soheilfar | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@soheilfar/projects/far-close) |
-| 4228 | FAST PIZZA - A Slice of Patience | marcusxsotelo | 0 | 6.8000 | 0 | Not available | [Source](https://higgsfield.ai/@marcusxsotelo/projects/fast-pizza-a-slice-of-patience-higgsfield-short) |
-| 4229 | FEI XIANG | rothkotaco1845 | 0 | 2.8000 | 0 | Not available | [Source](https://higgsfield.ai/@rothkotaco1845/projects/fei-xiang) |
-| 4230 | FINAL AI FILM FESTIVAL- EVIL TWIN TAKES OVER MY LIFE | cha_tahora | 0 | 2.9000 | 0 | Not available | [Source](https://higgsfield.ai/@cha_tahora/projects/ai-film-festival-evil-twin-takes-over-my-life) |
-| 4231 | Fine Dine No Reservation \| Sci-Fi Thriller Series \| Coming Soon | nextlevelproduction | 0 | 4.8000 | 0 | Not available | [Source](https://higgsfield.ai/@nextlevelproduction/projects/fine-dine-no-reservation-sci-fi-thriller-series) |
-| 4232 | First Flight | floatingeagle1406 | 0 | 2.2000 | 36 | Higgsfield Soul V2 (100.0000%) | [Source](https://higgsfield.ai/@floatingeagle1406/projects/first-flight) |
-| 4233 | FLIGHT 814 | lowrisecrab1547 | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@lowrisecrab1547/projects/flight-814) |
-| 4234 | Forced Absence | mendelbison1106 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mendelbison1106/projects/forced-absence) |
-| 4235 | Forest of the Damned Dead | sartthar | 0 | 3.1000 | 0 | Not available | [Source](https://higgsfield.ai/@sartthar/projects/forest-of-the-damned-dead) |
-| 4236 | FREEDOM | many1977 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@many1977/projects/freedom) |
-| 4237 | Freshwater Butterflies | bakingplatypus1167 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bakingplatypus1167/projects/freshwater-butterflies) |
-| 4238 | Friends & Fabrics - Hermes Short Film Concept Video | juanamsoria | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@juanamsoria/projects/friends-fabrics-hermes-short-film-concept-video) |
-| 4239 | FROM FOLLOWER TO CEO | futuristicwaffle1420 | 0 | 2.4000 | 49 | Kling 2.6 Video (91.8367%); Kling v3.0 (4.0816%); Seedance 2.0 (2.0408%); Nano Banana Pro (2.0408%) | [Source](https://higgsfield.ai/@futuristicwaffle1420/projects/from-follower-to-ceo) |
-| 4240 | Frozen Nut | poincarecrab1420 | 0 | 2.9000 | 0 | Not available | [Source](https://higgsfield.ai/@poincarecrab1420/projects/frozen-nut) |
-| 4241 | Frozen wonder | euclidtiger1486 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@euclidtiger1486/projects/frozen-wonder) |
-| 4242 | Generative club | nikita_s | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@nikita_s/projects/generative-club) |
-| 4243 | Genesis Protocol | drewbr50 | 0 | 1.4000 | 0 | Not available | [Source](https://higgsfield.ai/@drewbr50/projects/genesis-protocol) |
-| 4244 | Get the Money | deddie | 0 | 0.0631 | 4 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@deddie/projects/get-the-money) |
-| 4245 | Ghoul Justice (Pilot Episode) | obsession_film | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@obsession_film/projects/ghoul-justice-pilot-episode) |
-| 4246 | god slayer | sketching_slug_deluxe | 0 | 3.0000 | 0 | Not available | [Source](https://higgsfield.ai/@sketching_slug_deluxe/projects/god-slayer) |
-| 4247 | GODFATHER JUNIOR | institutionalgoose1423 | 0 | 3.7000 | 0 | Not available | [Source](https://higgsfield.ai/@institutionalgoose1423/projects/godfather-junior) |
-| 4248 | Good Luck! by sin-tong | descartescrab1600 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@descartescrab1600/projects/good-luck) |
-| 4249 | Good Wife, Good Life | jones_soul | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@jones_soul/projects/the-boy-who-cried-wolf) |
-| 4250 | Grand Theft Auto Vice City \| La Pelicula | danihec | 0 | 2.4000 | 160 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@danihec/projects/combat-titans) |
-| 4251 | Gravity | vagpemedia_2026 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@vagpemedia_2026/projects/gravity) |
-| 4252 | Hamster | chouchane | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@chouchane/projects/294630c3-4617-4994-a1de-7612b4ed55a1) |
-| 4253 | Hani Potter school - مدرسة هاني بوتر الثانوية المشتركة بنين | ziadramadan | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@ziadramadan/projects/hani-potter-school) |
-| 4254 | Havoc In Heaven | bathiya | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bathiya/projects/havoc-in-heaven) |
-| 4255 | He had nothing but a kind heart | badanaaz8 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@badanaaz8/projects/he-had-nothing-but-a-kind-heart) |
-| 4256 | Hell Grind | Higgsfield Studio | 0 | 0.0000 | 115,446 | Not available | [Source](https://higgsfield.ai/@higgsfield.studio/projects/hell-grind) |
-| 4257 | Hell Grind  -  Episode 1 | Higgsfield Studio | 0 | 0.0000 | 115,446 | Not available | [Source](https://higgsfield.ai/original-series/hell-grind/episode-1) |
-| 4258 | HI BABY | smarttoucan1954 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@smarttoucan1954/projects/the-last-call) |
-| 4259 | HIDE 'n SEEK | samarbawa | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@samarbawa/projects/hide-n-seek) |
-| 4260 | Hobby Shop | levitatingchinchilla1286 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@levitatingchinchilla1286/projects/ai-film-festival-2) |
-| 4261 | Hsi scelto | responsive_beetle_1019 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@responsive_beetle_1019/projects/hsi-scelto) |
-| 4262 | Humanism | badproductions | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@badproductions/projects/humanism) |
-| 4263 | Humans Vs Kaaris Final Battle | imaginarystudio | 0 | 26.1000 | 0 | Not available | [Source](https://higgsfield.ai/@imaginarystudio/projects/humans-vs-kaaris-final-battle) |
-| 4264 | I ATE MYSELF | byzantine_narwhal_mini | 0 | 2.4000 | 16 | Seedance 2.5 (87.5000%); Seedream 5.0 Pro (6.2500%); Nano Banana Pro (6.2500%) | [Source](https://higgsfield.ai/@byzantine_narwhal_mini/projects/i-ate-myself) |
-| 4265 | I Dont Know When I Changed | suraj_kabir | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@suraj_kabir/projects/i-dont-know-when-i-changed) |
-| 4266 | Il giardino | teleportinghawk1395 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@teleportinghawk1395/projects/il-giardino) |
-| 4267 | Illegal loggers | modernistplatypus1808 | 0 | 4.8000 | 225 | Seedance 2.5 (98.6667%); Seedream 4.5 (0.8889%); Seedream 5.0 Lite (0.4444%) | [Source](https://higgsfield.ai/@modernistplatypus1808/projects/illegal-loggers) |
-| 4268 | IN A BLINK OF AN EYE | flowingcrab_nitro | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@flowingcrab_nitro/projects/in-a-blink-of-an-eye) |
-| 4269 | Inkitcomics LLC wooley booger | pulsingchinchilla_main | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@pulsingchinchilla_main/projects/inkitcomics-llc-wooley-booger) |
-| 4270 | Insecure | cinematiclightning1317 | 0 | 0.4184 | 0 | Not available | [Source](https://higgsfield.ai/@cinematiclightning1317/projects/insecure) |
-| 4271 | Interpretation | xiaoya | 0 | 2.2000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@xiaoya/projects/interpretation) |
-| 4272 | INTRO DENER B2B FININN | djdenerdj | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@djdenerdj/projects/intro-dener-b2b-fininn) |
-| 4273 | Introducing RIYA | pointillisttoaster1185 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@pointillisttoaster1185/projects/introducing-riya) |
-| 4274 | Jesus, I Hate Being Poor | noetherfalcon1321 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@noetherfalcon1321/projects/jesus-i-hate-being-poor) |
-| 4275 | JIGYASA | vaidik | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@vaidik/projects/jigyasa) |
-| 4276 | Jumper me Bumper | wakingpretzel1518 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@wakingpretzel1518/projects/jumper-me-bumper) |
-| 4277 | KAALGARH | von_neumanngoose1048 | 0 | 0.0482 | 0 | Not available | [Source](https://higgsfield.ai/@von_neumanngoose1048/projects/ai-film-festival-2) |
-| 4278 | KALAPATHY – THE RISE OF CHOLA | absztor | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@absztor/projects/kalapathy-the-rise-of-chola) |
-| 4279 | Kaleodaz | caleodas | 0 | 2.1000 | 4 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@caleodas/projects/kaleodaz) |
-| 4280 | Keeper | jessaran | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@jessaran/projects/keeper) |
-| 4281 | KHELANA | meditatinghedgehog1388 | 0 | 5.2000 | 0 | Not available | [Source](https://higgsfield.ai/@meditatinghedgehog1388/projects/khelana) |
-| 4282 | Khoon Phir Khoon he | faizan_arshad | 0 | 2.7000 | 0 | Not available | [Source](https://higgsfield.ai/@faizan_arshad/projects/khoon-phir-khoon-he) |
-| 4283 | Kidogo \| The Little Show | russellavre | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@russellavre/projects/kidogo-the-little-show) |
-| 4284 | Kindred: The Last Brothers | galileofox1717 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@galileofox1717/projects/kindred-the-last-brothers) |
-| 4285 | Krishna’s Bells Went Silent… Something Was Holding Them | erdosrhino1742 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@erdosrhino1742/projects/krishna-s-bells-went-silent-something-was-holding-them) |
-| 4286 | Kök Börü | Higgsfield Studio | 0 | 0.0000 | 12,052 | Not available | [Source](https://higgsfield.ai/@higgsfield.studio/projects/kok-boru-film) |
-| 4287 | La Corona Manchada | vuduagencia | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@vuduagencia/projects/el-caballero-sin-reino) |
-| 4288 | La Dénucléarisation de la corée du nord | maximalistcloud1626 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@maximalistcloud1626/projects/la-d-nucl-arisation-de-la-cor-e-du-nord) |
-| 4289 | La sangre recuerda | baroqueorange1643 | 0 | 2.1000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@baroqueorange1643/projects/la-sangre-recuerda) |
-| 4290 | LA SIRENA | goridreads | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@goridreads/projects/la-sirena) |
-| 4291 | La última partida | quantumswan1148 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@quantumswan1148/projects/la-ltima-partida) |
-| 4292 | Lasagna Sacrifice | ticket_66 | 0 | 1.2000 | 0 | Not available | [Source](https://higgsfield.ai/@ticket_66/projects/) |
-| 4293 | LAST FARE  -  A Short Film | directedbymohcine | 0 | 1.9000 | 27 | Seedance 2.5 (81.4815%); GPT Image (18.5185%) | [Source](https://higgsfield.ai/@directedbymohcine/projects/last-fare-a-short-film) |
-| 4294 | Last Night Protocol | babbagebuffalo1690 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@babbagebuffalo1690/projects/last-night-protocol) |
-| 4295 | LATER | ahmedmagdyes | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@ahmedmagdyes/projects/later) |
-| 4296 | le cri | chouchane | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@chouchane/projects/le-cri) |
-| 4297 | LES TROIS PAGES - by DjeDje | djedjefilm | 0 | 4.5000 | 0 | Not available | [Source](https://higgsfield.ai/@djedjefilm/projects/les-trois-pages-by-djedje) |
-| 4298 | LET US ROCK THE WORLD – Epic Hard Rock Visual Experience ( | lowriseplatypus1744 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@lowriseplatypus1744/projects/let-us-rock-the-world-epic-hard-rock-visual-experience) |
-| 4299 | Linglan  -  Young Warrior of Kunlun | zoomingbee1372 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@zoomingbee1372/projects/linglan-young-warrior-of-kunlun) |
-| 4300 | Locked In | brycenicholson | 0 | 4.6000 | 16 | Nano Banana Pro (100.0000%) | [Source](https://higgsfield.ai/@brycenicholson/projects/locked-in) |
-| 4301 | Loud silence | lichtenstein_tea_mega | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@lichtenstein_tea_mega/projects/loud-silence) |
-| 4302 | LOVE BEYOND PLANETS | lovebeyondplanet | 0 | 2.5000 | 5 | Soul Cinematic (60.0000%); Cinema Studio 4.0 (40.0000%) | [Source](https://higgsfield.ai/@lovebeyondplanet/projects/144bca40-a174-4340-a906-772930c16c69) |
-| 4303 | Love.exe | ojak | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@ojak/projects/love-exe) |
-| 4304 | LUCIFER | ilregista82 | 0 | 2.8000 | 75 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@ilregista82/projects/lucifer) |
-| 4305 | L’ÉVEIL  -   Awakening | holographicwater1160 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@holographicwater1160/projects/l-veil-awakening) |
-| 4306 | MADDAH | knuth_butterfly_1001 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@knuth_butterfly_1001/projects/maddah) |
-| 4307 | MADNESS | hafssa_epicstudio | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@hafssa_epicstudio/projects/madness) |
-| 4308 | MAHABHARAT \| KARNA & DURYODHANA  -  Brotherhood Beyond Destiny | brahma_code_0 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@brahma_code_0/projects/ai-film-festival-mahabharat-karna-duryodhana-brotherhood-bey) |
-| 4309 | Make Humans Free Again - The Design of Private Property | gonmelo | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@gonmelo/projects/make-humans-free-again) |
-| 4310 | Make some Noise | prabupb | 0 | 2.6000 | 25 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@prabupb/projects/make-some-noise) |
-| 4311 | Makeda: The Soul of Sheba | makedasoul1 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@makedasoul1/projects/makeda-the-soul-of-sheba) |
-| 4312 | MAN ON THAMES | dusty | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@dusty/projects/man-on-thames) |
-| 4313 | Mansion Of The Dragon | greemor1 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@greemor1/projects/mansion-of-the-dragon) |
-| 4314 | Marilyn | vibingdrone1443 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@vibingdrone1443/projects/marilyn) |
-| 4315 | Memory Healing | estaswood | 0 | 4.7000 | 0 | Not available | [Source](https://higgsfield.ai/@estaswood/projects/memory-healing) |
-| 4316 | MERIDIAN : THE LAST RUN \| AI Sci-Fi Short Film | byzantinejellyfish1356 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@byzantinejellyfish1356/projects/meridian-the-last-run-ai-sci-fi-short-film) |
-| 4317 | MESSAGE FROM FUTURE | designingwalrus_fam | 0 | 3.2000 | 0 | Not available | [Source](https://higgsfield.ai/@designingwalrus_fam/projects/message-from-future) |
-| 4318 | Mila Vex: The Shadow King Returns | pythagorasdolphin1534 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@pythagorasdolphin1534/projects/mila-vex-the-shadow-king-returns) |
-| 4319 | MIRAGE | asqarai | 0 | 2.2000 | 12 | Seedream 5.0 Lite (50.0000%); Seedance 2.0 Unlimited (33.3333%); Nano Banana 2 (8.3333%); Kling O1 Image (8.3333%) | [Source](https://higgsfield.ai/@asqarai/projects/mirage) |
-| 4320 | Miss Herbo | suprematistcoffee1546 | 0 | 3.0000 | 0 | Not available | [Source](https://higgsfield.ai/@suprematistcoffee1546/projects/miss-herbo) |
-| 4321 | Mithra 7 | rajunsign | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@rajunsign/projects/mithra7) |
-| 4322 | Moment | peepaltree0100 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@peepaltree0100/projects/moment) |
-| 4323 | MORRISON | pantasium | 0 | 2.9000 | 87 | Seedance 2.5 (67.8161%); Nano Banana Pro (20.6897%); Seedream 5.0 Lite (11.4943%) | [Source](https://higgsfield.ai/@pantasium/projects/morrison) |
-| 4324 | Moses movie | pascalfalcon1422 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@pascalfalcon1422/projects/moses-movie) |
-| 4325 | MOUL JELLABA | galileo_dragonfly_1010 | 0 | 1.6000 | 0 | Not available | [Source](https://higgsfield.ai/@galileo_dragonfly_1010/projects/moul-jellaba) |
-| 4326 | Museum of Forgotten Things | racingruler_bot | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@racingruler_bot/projects/museum-of-forgotten-things) |
-| 4327 | My Country | jodzi | 0 | 3.5000 | 0 | Not available | [Source](https://higgsfield.ai/@jodzi/projects/my-country) |
-| 4328 | Nameless for AI Film Festival | eugeenyjoy | 0 | 2.7000 | 79 | Seedance 2.5 (59.4937%); Seedream 4.5 (29.1139%); Soul Cinematic (11.3924%) | [Source](https://higgsfield.ai/@eugeenyjoy/projects/nameless-for-ai-film-festival) |
-| 4329 | NANA: BLADE OF VENGEANCE | shinjimimura | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@shinjimimura/projects/nana-blade-of-vengeance) |
-| 4330 | Narasimha vs Hiranyakashipu \| AI Film Festival | shifting_eraser_the_bold | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@shifting_eraser_the_bold/projects/narasimha-vs-hiranyakashipu-ai-film-festival) |
-| 4331 | Near Miss | yushinedit | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@yushinedit/projects/near-miss) |
-| 4332 | Neon Bouty intro | razorlight | 0 | 2.1000 | 2 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@razorlight/projects/ai-film-festival-2) |
-| 4333 | Nepal 2026 | rajunsign | 0 | 4.4000 | 0 | Not available | [Source](https://higgsfield.ai/@rajunsign/projects/nepal-2026) |
-| 4334 | Never_Bow_New | deconstructivistferret1599 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@deconstructivistferret1599/projects/never-bow-new) |
-| 4335 | NEWORDS | thevolce | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@thevolce/projects/newords) |
-| 4336 | NEXORA  -  The Fire Legion | hokusaitable1829 | 0 | 5.4000 | 0 | Not available | [Source](https://higgsfield.ai/@hokusaitable1829/projects/nexora-the-fire-legion) |
-| 4337 | NIGHT RIOTZ | softblueberry1557 | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@softblueberry1557/projects/night-riotz) |
-| 4338 | NO EXCUSES | aliussef123 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@aliussef123/projects/no-excuses) |
-| 4339 | No Powers | flowingtaco1216 | 0 | 3.1000 | 0 | Not available | [Source](https://higgsfield.ai/@flowingtaco1216/projects/no-powers) |
-| 4340 | NO Saint | joseph_zoofa | 0 | 1.7000 | 0 | Not available | [Source](https://higgsfield.ai/@joseph_zoofa/projects/ai-film-festival-no-saint) |
-| 4341 | NOT YET | designingtomato1121 | 0 | 2.8000 | 0 | Not available | [Source](https://higgsfield.ai/@designingtomato1121/projects/ai-film-festival-not-yet) |
-| 4342 | Nuit des temps | mysticalwaffle_guru | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@mysticalwaffle_guru/projects/nuit-des-temps) |
-| 4343 | NYMORA 2 | perceptronpanda_real | 0 | 14.6000 | 0 | Not available | [Source](https://higgsfield.ai/@perceptronpanda_real/projects/nymora-2) |
-| 4344 | O ÚLTIMO PIXEL | skyscraperelk1564 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@skyscraperelk1564/projects/o-ltimo-pixel) |
-| 4345 | Official Teaser Trailer - Scharfenberg | alec_barr_productions | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@alec_barr_productions/projects/official-teaser-trailer-scharfenberg) |
-| 4346 | OFFLINE : The Last MonoLogue | dijkstracrow1591 | 0 | 3.1000 | 0 | Not available | [Source](https://higgsfield.ai/@dijkstracrow1591/projects/offline-the-last-monologue) |
-| 4347 | ON THE BEACH: DON’T LOOK BACK | yushinedit | 0 | 3.7000 | 0 | Not available | [Source](https://higgsfield.ai/@yushinedit/projects/on-the-beach-don-t-look-back) |
-| 4348 | Once Upon A Time | riemanncamel1425 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@riemanncamel1425/projects/once-upon-a-time) |
-| 4349 | ONE DRAG | jimagefilm | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@jimagefilm/projects/one-drag-film) |
-| 4350 | ONE LIGHT | blueprinttiger1668 | 0 | 0.6382 | 0 | Not available | [Source](https://higgsfield.ai/@blueprinttiger1668/projects/one-light) |
-| 4351 | One Minute Before Death | dreamvoxfilms | 0 | 2.2000 | 42 | Higgsfield Soul V2 (97.6190%); Soul Cinematic (2.3810%) | [Source](https://higgsfield.ai/@dreamvoxfilms/projects/one-minute-before-death) |
-| 4352 | One Mission. Many Lives. \| Military Rescue Operation | smartwombat1688 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@smartwombat1688/projects/one-mission-many-lives-military-rescue-operation) |
-| 4353 | Oneiric | Higgsfield Studio | 0 | 0.0000 | 41,096 | Not available | [Source](https://higgsfield.ai/@higgsfield.studio/projects/oneiric) |
-| 4354 | Opps i cloned myself | kayokane | 0 | 2.6000 | 40 | Seedance 2.5 (55.0000%); GPT Image 2 Unlimited (45.0000%) | [Source](https://higgsfield.ai/@kayokane/projects/opps-i-cloned-myself) |
-| 4355 | OUTBACK HORIZON | leoclark | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@leoclark/projects/outback-horizon) |
-| 4356 | PANAMA PARADISE | juancarlosbordanea | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@juancarlosbordanea/projects/panama-paradise) |
-| 4357 | PANAMA PARADISE | juancarlosbordanea | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@juancarlosbordanea/projects/panama-paradise-film) |
-| 4358 | PAPER FLIGHT - JAPAN | haruka_apps | 0 | 1.3000 | 1 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@haruka_apps/projects/paper-flight) |
-| 4359 | PAYNED | baroquesnow_ai | 0 | 3.6000 | 1 | Seedream 5.0 Lite (100.0000%) | [Source](https://higgsfield.ai/@baroquesnow_ai/projects/payned) |
-| 4360 | PENAL COLONY OF SPECIAL REGIME | koperatork | 0 | 3.4000 | 43 | Seedance 2.5 (97.6744%); Nano Banana Pro (2.3256%) | [Source](https://higgsfield.ai/@koperatork/projects/penal-colony-of-special-regime) |
-| 4361 | Piece Around | majid13 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@majid13/projects/piece-around) |
-| 4362 | PING: Destination Unreachable | archimedeselk1303 | 0 | 2.4000 | 17 | Seedance 2.5 (94.1176%); Soul Cinematic (5.8824%) | [Source](https://higgsfield.ai/@archimedeselk1303/projects/ping-destination-unreachable) |
-| 4363 | Polo The Alien | jahvontetheking | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@jahvontetheking/projects/polo-the-alien) |
-| 4364 | Pothe Holo Dekha (Meet On The Roads) | shariartawsif | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@shariartawsif/projects/pothe-holo-dekha-meet-on-the-roads) |
-| 4365 | Power of money | civicbison1586 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@civicbison1586/projects/power-of-money) |
-| 4366 | prison | highrisebutterfly1418 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@highrisebutterfly1418/projects/prison) |
-| 4367 | Project Freedom - Episode 1 | projectjream | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@projectjream/projects/project-freedom-episode-1) |
-| 4368 | Prologue: Miran | nemmysis | 0 | 2.4000 | 55 | Seedance 2.5 (94.5455%); Nano Banana Pro (5.4545%) | [Source](https://higgsfield.ai/@nemmysis/projects/prologue-miran) |
-| 4369 | Protocolo 404 | dudumunhoz | 0 | 6.1000 | 0 | Not available | [Source](https://higgsfield.ai/@dudumunhoz/projects/404-protocol) |
-| 4370 | Qorshau | leonardo_pancake_chad | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@leonardo_pancake_chad/projects/qorshau) |
-| 4371 | RAICHUR THINGS | raichurmoviemakers | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@raichurmoviemakers/projects/raichur-things) |
-| 4372 | RAKSHAK | sarthak01 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@sarthak01/projects/rakshak) |
-| 4373 | RATION | ronrevog | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@ronrevog/projects/ration) |
-| 4374 | Red Death | generatingruby1505 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@generatingruby1505/projects/red-death) |
-| 4375 | Red Flag | Higgsfield Studio | 0 | 0.0000 | 3,524 | Not available | [Source](https://higgsfield.ai/@higgsfield.studio/projects/red-flag) |
-| 4376 | ReincAIrnated | streamingbutter1292 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@streamingbutter1292/projects/reincairnated) |
-| 4377 | Ring Born | alzeerofficial | 0 | 3.3000 | 9 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@alzeerofficial/projects/ring-born) |
-| 4378 | ROACHES AI Film Festival 3 | demfranchizeboyz | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@demfranchizeboyz/projects/roaches-ai-film-festival-3) |
-| 4379 | Rock The Line ! | mrhoures | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mrhoures/projects/ai-film-festival-2) |
-| 4380 | Rogue Angel & Innocent Demon : Korean Version | romanticlightning_mega | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@romanticlightning_mega/projects/rogue-angel-innocent-demon-korean-version) |
-| 4381 | Roses Night | feynmandeer1684 | 0 | 1.1000 | 0 | Not available | [Source](https://higgsfield.ai/@feynmandeer1684/projects/roses-knight) |
-| 4382 | Rouge Drone | glitchplanet1284 | 0 | 2.1000 | 3 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@glitchplanet1284/projects/rouge-drone) |
-| 4383 | Rufus: The Compton Cowboy: Episode 5 (Sneak Peek) | larryu | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@larryu/projects/rufus-the-compton-cowboy-episode-5-sneak-peek) |
-| 4384 | Ruslan Fattokhov | ruxeffect | 0 | 5.0000 | 2 | Nano Banana Pro (100.0000%) | [Source](https://higgsfield.ai/@ruxeffect/projects/ruslan-fattokhov) |
-| 4385 | SACRIFICE \| An AI-Generated Shang Dynasty Epic | tudortoucan1740 | 0 | 11.4000 | 0 | Not available | [Source](https://higgsfield.ai/@tudortoucan1740/projects/sacrifice-an-ai-generated-shang-dynasty-epic) |
-| 4386 | Safia - صفية | ahmedyahia1991 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@ahmedyahia1991/projects/safia) |
-| 4387 | Save The Bees | abstractgarlic1562 | 0 | 4.0000 | 109 | Seedream 4.5 (65.1376%); Seedance 2.0 Unlimited (28.4404%); Seedream 5.0 Lite (6.4220%) | [Source](https://higgsfield.ai/@abstractgarlic1562/projects/save-the-bees) |
-| 4388 | SAVIOUR - THE SON | sachin_samuel | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@sachin_samuel/projects/saviour-the-son) |
-| 4389 | Scary minutes | hospitalitybutterfly1857 | 0 | 3.1000 | 0 | Not available | [Source](https://higgsfield.ai/@hospitalitybutterfly1857/projects/scary-minutes) |
-| 4390 | Seedance 2.5 is Insane, I Turned an AI Anthem Into a Robot Music Video | theuniversebeyond | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@theuniversebeyond/projects/seedance-2-5-is-insane-i-turned-an-ai-anthem-into-a-robot-mu) |
-| 4391 | SELF TALK - SCROLLIN' - HIGGSFIELD GLOBAL FILM FESTIVAL SUBMISSION - WENDELL 'UTK' NELSON - FGM | wendellutknelson | 0 | 7.8000 | 0 | Not available | [Source](https://higgsfield.ai/@wendellutknelson/projects/self-talk-scrollin-higgsfield-global-film-festival-submissio) |
-| 4392 | SEVERED DENIM | techsherlock | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@techsherlock/projects/severed-denim) |
-| 4393 | shadow of the Pyramid | husseinsamer22 | 0 | 6.1000 | 0 | Not available | [Source](https://higgsfield.ai/@husseinsamer22/projects/shadow-of-the-pyramid) |
-| 4394 | SHADOW ON THE MOON | tanvir4hmed | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@tanvir4hmed/projects/shadow-on-the-moon) |
-| 4395 | SHADOW  -  The Shark Who Nobody Understood | ocean_jules | 0 | 4.1000 | 40 | Seedream 5.0 Pro (70.0000%); Nano Banana Pro (17.5000%); Cinema Studio 4.0 (12.5000%) | [Source](https://higgsfield.ai/@ocean_jules/projects/shadow-the-shark-who-nobody-understood) |
-| 4396 | shark | shark1990 | 0 | 2.2000 | 1 | Higgsfield Genjutsu - Motion Transfer (100.0000%) | [Source](https://higgsfield.ai/@shark1990/projects/shark) |
-| 4397 | Sherlock y Watson en El retrato del día siguiente | evincor | 0 | 3.2000 | 0 | Not available | [Source](https://higgsfield.ai/@evincor/projects/sherlock-y-watson-en-el-retrato-del-d-a-siguiente) |
-| 4398 | Shocker Echoes In The Static 2027 | 2slickstudios | 0 | 2.4000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@2slickstudios/projects/shocker-echoes-in-the-static-2027) |
-| 4399 | SHOW | yoons_film | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@yoons_film/projects/) |
-| 4400 | SIARI TEWEY II - LA RETÍCULA DEL FUTURO | fermatbeetle1545 | 0 | 1.9000 | 50 | Seedance 2.5 (76.0000%); Nano Banana (24.0000%) | [Source](https://higgsfield.ai/@fermatbeetle1545/projects/siari-tewey-ii-la-ret-cula-del-futuro) |
-| 4401 | Silent Isle \| Crelix AI \| Higgsfield Global Film Festival | folkcucumber1441 | 0 | 3.8000 | 0 | Not available | [Source](https://higgsfield.ai/@folkcucumber1441/projects/silent-isle-crelix-ai-higgsfield-global-film-festival) |
-| 4402 | Silent Rivalry | dadaiststrawberry1624 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@dadaiststrawberry1624/projects/silent-rivalry) |
-| 4403 | SIMULATION  -  Short film | abstractthunder1346 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@abstractthunder1346/projects/simulation-short-film) |
-| 4404 | Skanderbeg - Eagle of The Mountains | lynoa_studio | 0 | 6.6000 | 0 | Not available | [Source](https://higgsfield.ai/@lynoa_studio/projects/ai-film-festival) |
-| 4405 | SLLS-Screw Loose Launch System- Unaccounted For | cosmicpebble1519 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@cosmicpebble1519/projects/slls-screw-loose-launch-system-unaccounted-for) |
-| 4406 | SOLD | vslavaa | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@vslavaa/projects/sold) |
-| 4407 | Someone Sent You | sporkmaster269 | 0 | 6.7000 | 0 | Not available | [Source](https://higgsfield.ai/@sporkmaster269/projects/someone-sent-you) |
-| 4408 | SPLIT LINE | pmh | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@pmh/projects/split-line) |
-| 4409 | STAR PAJAMAS | learningdragonfly1410 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@learningdragonfly1410/projects/star-pajamas) |
-| 4410 | STAY | bob16 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bob16/projects/stay) |
-| 4411 | Stellar Death | hanyudam | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@hanyudam/projects/stellar-death) |
-| 4412 | Still receiving | modernistmantis_9000 | 0 | 1.4000 | 61 | Kling (98.3607%); Soul Cinematic (1.6393%) | [Source](https://higgsfield.ai/@modernistmantis_9000/projects/still-receiving) |
-| 4413 | Stranger | baroquecrystal1534 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@baroquecrystal1534/projects/stranger) |
-| 4414 | SUGAR RUSH RIOT ARMY | wingslisa | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@wingslisa/projects/sugar-rush-riot-army) |
-| 4415 | Sunday Gravy | industrialguinea_pig1154 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@industrialguinea_pig1154/projects/sunday-gravy) |
-| 4416 | Super-Teen Menace | b-king_54 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@b-king_54/projects/super-teen-menace) |
-| 4417 | SV Lola Pop  - Pressure | scoverse | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@scoverse/projects/sv-lola-pop-pressure) |
-| 4418 | Sweets | dadaiststrawberry1624 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@dadaiststrawberry1624/projects/sweets) |
-| 4419 | Synara | synthwavebroccoli1362 | 0 | 1.4000 | 0 | Not available | [Source](https://higgsfield.ai/@synthwavebroccoli1362/projects/synara) |
-| 4420 | TALISMAN | minimalistapple1625 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@minimalistapple1625/projects/ai-film-festival-2) |
-| 4421 | TAMIM AL-DARI | relaxingcupcake1436 | 0 | 3.1000 | 0 | Not available | [Source](https://higgsfield.ai/@relaxingcupcake1436/projects/tamim-al-dari) |
-| 4422 | Tartaria | maraguild | 0 | 4.2000 | 0 | Not available | [Source](https://higgsfield.ai/@maraguild/projects/ai-film-festival) |
-| 4423 | The Advisor | poincarecrab1420 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@poincarecrab1420/projects/the-advisor-ai-film-festival-2) |
-| 4424 | The Answer | edhita | 0 | 3.6000 | 75 | Seedance 2.0 Mini Unlimited (93.3333%); Enhanced Seedance 2.0 Fast Unlimited (6.6667%) | [Source](https://higgsfield.ai/@edhita/projects/the-answer) |
-| 4425 | The Architect demo | sleepingflamingo1295 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@sleepingflamingo1295/projects/the-architect-demo) |
-| 4426 | The ASSEMBLER | ahmed_editor | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@ahmed_editor/projects/the-assembler) |
-| 4427 | The Bad Boys - Bringing AI into Mind | johnsblueberry1811 | 0 | 2.1000 | 2 | Seedance 2.5 (50.0000%); Soul Cinematic (50.0000%) | [Source](https://higgsfield.ai/@johnsblueberry1811/projects/ai-film-festival-6) |
-| 4428 | THE BLOODLINE | playfulrainbow_cult | 0 | 2.7000 | 0 | Not available | [Source](https://higgsfield.ai/@playfulrainbow_cult/projects/the-bloodline) |
-| 4429 | THE BOSE EFFECT | sleepingparrot_500 | 0 | 1.1000 | 0 | Not available | [Source](https://higgsfield.ai/@sleepingparrot_500/projects/the-bose-effect) |
-| 4430 | The Boy and the Nile Crocodile | mokoto_praia | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mokoto_praia/projects/the-boy-and-the-nile-crocodile) |
-| 4431 | The broken God | galileo_axolotl_prime | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@galileo_axolotl_prime/projects/the-broken-god) |
-| 4432 | The Burden Of A Mother | akaartgenerator | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@akaartgenerator/projects/ai-film-festival-the-burden-of-a-mother) |
-| 4433 | THE CAVE OF ECHOES | digitalpizza1573 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@digitalpizza1573/projects/the-cave-of-echoes) |
-| 4434 | The Cleopatra Chronicles | beautyai | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@beautyai/projects/the-cleopatra-chronicles) |
-| 4435 | THE COLOR SMUGGLER | hokusairobot1778 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@hokusairobot1778/projects/the-color-smuggler) |
-| 4436 | The Colour "रंग" | neoclassical_hamster_supreme | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@neoclassical_hamster_supreme/projects/the-colour) |
-| 4437 | THE COMPASS OF THE ATLAS: THE CURSED JUNGLE | installationmushroom1100 | 0 | 3.9000 | 0 | Not available | [Source](https://higgsfield.ai/@installationmushroom1100/projects/the-compass-of-the-atlas-the-cursed-jungle) |
-| 4438 | The court of crows | glowingice1478 | 0 | 2.2000 | 5 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@glowingice1478/projects/the-court-of-crows) |
-| 4439 | The Cully Hill Boys | Higgsfield Studio | 0 | 0.0000 | 473,214 | Not available | [Source](https://higgsfield.ai/@higgsfield.studio/projects/cully-hill-boys) |
-| 4440 | The Dark night | gothic_pebble_1020 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@gothic_pebble_1020/projects/the-dark-night) |
-| 4441 | THE DAWN BEARER | adelead | 0 | 2.1000 | 3 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@adelead/projects/the-dawn-bearer) |
-| 4442 | The Death God | venkimuthamala | 0 | 2.7000 | 48 | Seedance 2.5 (58.3333%); Seedream 4.5 (41.6667%) | [Source](https://higgsfield.ai/@venkimuthamala/projects/grandpa-vs-crow) |
-| 4443 | THE DREAM | studioesoonton13 | 0 | 3.6000 | 152 | Seedance 2.5 (84.8684%); Seedream 5.0 Lite (10.5263%); Higgsfield Soul V2 (4.6053%) | [Source](https://higgsfield.ai/@studioesoonton13/projects/the-dream) |
-| 4444 | The Duvet - Trailer | yucel | 0 | 2.2000 | 19 | Cinema Studio 4.0 (94.7368%); Nano Banana Pro (5.2632%) | [Source](https://higgsfield.ai/@yucel/projects/the-duvet-trailer) |
-| 4445 | The Empty Quarter: The Lost Trace | drawingtea1314 | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@drawingtea1314/projects/the-empty-quarter-the-lost-trace) |
-| 4446 | The ferment of life | antoniogodoy | 0 | 2.3000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@antoniogodoy/projects/the-ferment-of-life) |
-| 4447 | THE FESTIVAL OF DOGS | softonion1411 | 0 | 2.9000 | 133 | Nano Banana 2 (57.1429%); Kling v3.0 (42.8571%) | [Source](https://higgsfield.ai/@softonion1411/projects/the-festival-of-dogs) |
-| 4448 | The Final Challenge | jumpingbook1449 | 0 | 4.4000 | 38 | Seedance 2.0 Unlimited (100.0000%) | [Source](https://higgsfield.ai/@jumpingbook1449/projects/the-final-challenge) |
-| 4449 | The First and Last Dance | nahron07 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@nahron07/projects/the-first-and-last-dance) |
-| 4450 | THE FIRST LIGHT | jahvontetheking | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@jahvontetheking/projects/the-first-light) |
-| 4451 | The First Notification | el_grecopie1815 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@el_grecopie1815/projects/the-first-notification) |
-| 4452 | THE FOURTH SHIFT  -  OFFICIAL FILM | mahmoud_okeel | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mahmoud_okeel/projects/the-fourth-shift-official-film) |
-| 4453 | THE GIFT OF THE SEA | syam_sutra | 0 | 4.8000 | 0 | Not available | [Source](https://higgsfield.ai/@syam_sutra/projects/the-gift-of-the-sea) |
-| 4454 | The Golden Pole | buildinggrape1397 | 0 | 4.5000 | 0 | Not available | [Source](https://higgsfield.ai/@buildinggrape1397/projects/the-golden-pole-1) |
-| 4455 | THE GREATEST THEFT IN HISTORY? | mosta1a | 0 | 3.9000 | 0 | Not available | [Source](https://higgsfield.ai/@mosta1a/projects/the-greatest-theft-in-history) |
-| 4456 | The House On Hollow Hill  -  Part One | joelherbert | 0 | 6.9000 | 0 | Not available | [Source](https://higgsfield.ai/@joelherbert/projects/the-house-on-hollow-hill-part-one) |
-| 4457 | The ill-mannered girl | mysticalpelican1148 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mysticalpelican1148/projects/the-ill-mannered-girl) |
-| 4458 | The Last Bounty | parametriccaterpillar1055 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@parametriccaterpillar1055/projects/the-last-bounty) |
-| 4459 | The Last Coin | kerala_animator11 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@kerala_animator11/projects/the-last-coin) |
-| 4460 | The Last Conversation | pythagorasant1451 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@pythagorasant1451/projects/ai-film-festival) |
-| 4461 | THE LAST DAWN | dung_ai_artist | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@dung_ai_artist/projects/the-last-dawn) |
-| 4462 | THE LAST ECHO | gothic_shrimp_1110 | 0 | 0.8312 | 0 | Not available | [Source](https://higgsfield.ai/@gothic_shrimp_1110/projects/the-last-echo) |
-| 4463 | THE LAST FRAME | discoveringotter1394 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@discoveringotter1394/projects/the-last-frame) |
-| 4464 | The last good night | bourgeoisbroccoli1802 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bourgeoisbroccoli1802/projects/the-last-good-night) |
-| 4465 | The Last Harlem Hellfighter | larryu | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@larryu/projects/the-last-harlem-hellfighter-sneak-peek) |
-| 4466 | The Last Human | wahwahstudio | 0 | 2.1000 | 4 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@wahwahstudio/projects/the-last-human) |
-| 4467 | The last Island | ember_faithe | 0 | 2.7000 | 20 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@ember_faithe/projects/the-last-island) |
-| 4468 | The Last Job | robinrafan | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@robinrafan/projects/the-last-job) |
-| 4469 | THE LAST MEMORY | atompunkpizza1338 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@atompunkpizza1338/projects/the-last-memory) |
-| 4470 | THE LAST MEMORY | viralfawkes | 0 | 3.2000 | 0 | Not available | [Source](https://higgsfield.ai/@viralfawkes/projects/42fe246c-1938-488c-a8f5-bf70e1d8ec02) |
-| 4471 | THE LAST MISSION | bobbyaifilms | 0 | 0.0004 | 0 | Not available | [Source](https://higgsfield.ai/@bobbyaifilms/projects/the-last-mission) |
-| 4472 | The Last Night of Varelia | brewing_eraser_gamma | 0 | 2.2000 | 1 | Higgsfield Genjutsu - Motion Transfer (100.0000%) | [Source](https://higgsfield.ai/@brewing_eraser_gamma/projects/the-last-night-of-varelia) |
-| 4473 | the last rebelion | finny-tech | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@finny-tech/projects/the-last-rebelion) |
-| 4474 | The Last Resorts | reelsuccess | 0 | 2.6000 | 111 | Nano Banana Pro (60.3604%); Seedance 2.5 (38.7387%); Kling v3.0 (0.9009%) | [Source](https://higgsfield.ai/@reelsuccess/projects/the-last-resorts) |
-| 4475 | The Last Ring | institutionaleagle1524 | 0 | 2.7000 | 0 | Not available | [Source](https://higgsfield.ai/@institutionaleagle1524/projects/) |
-| 4476 | The Last Seat | giammyzee | 0 | 2.1000 | 9 | Higgsfield Soul V2 (66.6667%); Seedance 2.5 (22.2222%); Soul Cinematic (11.1111%) | [Source](https://higgsfield.ai/@giammyzee/projects/the-last-seat) |
-| 4477 | THE LAST SIGNAL | institutionalnarwhal1882 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@institutionalnarwhal1882/projects/the-last-signal) |
-| 4478 | The Last Spin | throbbingpie1090 | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@throbbingpie1090/projects/the-last-spin) |
-| 4479 | The Ledger | forparis | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@forparis/projects/the-ledger) |
-| 4480 | The Life Between AI Movie | wakingtomato_cult | 0 | 2.9000 | 0 | Not available | [Source](https://higgsfield.ai/@wakingtomato_cult/projects/the-life-between-ai-movie) |
-| 4481 | THE LINE BETWEEN LIFE AND DEATH | qya-yunke | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@qya-yunke/projects/the-line-between-life-and-death) |
-| 4482 | The Little Interpreter | osamaahmed505 | 0 | 2.6000 | 98 | Seedance 2.5 (56.1224%); Seedream 4.5 (43.8776%) | [Source](https://higgsfield.ai/@osamaahmed505/projects/the-little-interpreter) |
-| 4483 | The Long Wait | graffitiplanet1632 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@graffitiplanet1632/projects/x) |
-| 4484 | the man who never looked up | buildingcupcake1425 | 0 | 2.5000 | 35 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@buildingcupcake1425/projects/the-man-who-never-loocked-up) |
-| 4485 | The Mary Jane Brothers | meltedmindslab | 0 | 2.4000 | 6 | Nano Banana Pro (100.0000%) | [Source](https://higgsfield.ai/@meltedmindslab/projects/the-mary-jane-brothers) |
-| 4486 | The Master and the Student | 132 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@132/projects/the-master-and-the-student) |
-| 4487 | The Maze | levitatingchinchilla1304 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@levitatingchinchilla1304/projects/the-maze) |
-| 4488 | The Memory Thief | calderpepper1770 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@calderpepper1770/projects/the-memory-thief) |
-| 4489 | The Monitored | yezak | 0 | 0.0454 | 22 | Seedance 2.5 (95.4545%); Seedream 5.0 Lite (4.5455%) | [Source](https://higgsfield.ai/@yezak/projects/) |
-| 4490 | The night fare.. | ramanujan_dolphin_xxl | 0 | 6.8000 | 0 | Not available | [Source](https://higgsfield.ai/@ramanujan_dolphin_xxl/projects/the-night-fare) |
-| 4491 | The Orchestra of Empty Rooms | chia-studios | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@chia-studios/projects/the-orchestra-of-empty-rooms) |
-| 4492 | the power | kleedonut1685 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@kleedonut1685/projects/the-power) |
-| 4493 | The Power of the Horses | thatsonofman | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@thatsonofman/projects/the-power-of-the-horses) |
-| 4494 | The Ripple | conceptualemerald1398 | 0 | 2.8000 | 0 | Not available | [Source](https://higgsfield.ai/@conceptualemerald1398/projects/a698e86f-7e64-4459-b114-b066967c1313) |
-| 4495 | The SCRIBE | pooyavision1984 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@pooyavision1984/projects/the-scribe) |
-| 4496 | The Seventh Seal | jammingpencil1366 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@jammingpencil1366/projects/the-seventh-seal) |
-| 4497 | The Sinner | lvatoresa | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@lvatoresa/projects/the-sinner) |
-| 4498 | The Song We Left Behind | artekhaii_design | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@artekhaii_design/projects/the-song-we-left-behind) |
-| 4499 | THE SOUND OF TOMORROW | softmoon1502 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@softmoon1502/projects/the-sound-of-tomorrow) |
-| 4500 | The Sterneman Family at the Sterneman Home: Music Video: Find Megamix (from Yo Gabba Gabba!) | lindsegiles8825 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@lindsegiles8825/projects/kids-and-families-from-nanny-911-s-adventures-with-out-of-th) |
-| 4501 | The Sticky Situation | eulerbuffalo1691 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@eulerbuffalo1691/projects/the-sticky-situation) |
-| 4502 | The Story of Jinu & Ina | shannonspider_ultimate | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@shannonspider_ultimate/projects/the-story-of-jinu-ina) |
-| 4503 | The Sunken Line | morphingwhale1396 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@morphingwhale1396/projects/the-sunken-line) |
-| 4504 | The TalkForge Film Festival | craftingruby1444 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@craftingruby1444/projects/the-talkforge-film-festival) |
-| 4505 | The Tribe's Female Werewolf | aphihybridai | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@aphihybridai/projects/ai-film-festival-6) |
-| 4506 | The Udarru Sky Voyager | mystical_chap | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mystical_chap/projects/the-udarru-sky-voyager) |
-| 4507 | The Unravelling: A Thread Back Home | deepweave-ai-cinema | 0 | 2.8000 | 0 | Not available | [Source](https://higgsfield.ai/@deepweave-ai-cinema/projects/the-unravelling-a-thread-back-home) |
-| 4508 | THE WET PAINT | zoyanywhare | 0 | 3.1000 | 59 | Seedance 2.5 (61.0169%); Soul Cinematic (22.0339%); Cinematic Studio Soul Location (16.9492%) | [Source](https://higgsfield.ai/@zoyanywhare/projects/the-wet-paint) |
-| 4509 | The White Cat | abdulghanli | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@abdulghanli/projects/the-white-cat) |
-| 4510 | THE WILD CREW  -  Mission in the Wild | hawkingopossum_solo | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@hawkingopossum_solo/projects/the-wild-crew-mission-in-the-wild) |
-| 4511 | The Wish Keepers | elite_remedy_maven | 0 | 2.9000 | 55 | Enhanced Seedance 2.0 Fast Unlimited (50.9091%); Nano Banana Pro (49.0909%) | [Source](https://higgsfield.ai/@elite_remedy_maven/projects/the-wish-keepers) |
-| 4512 | The Wooden Biplane That Built a Pilot | playfulpretzel1612 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@playfulpretzel1612/projects/the-wooden-biplane-that-built-a-pilot) |
-| 4513 | The World I Drew | fatmaessa | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@fatmaessa/projects/ai-film-festival-2) |
-| 4514 | The World's Strongest Assassin Become A Dad | craftingavocado1563 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@craftingavocado1563/projects/the-world-s-strongest-assassin-become-a-dad) |
-| 4515 | THE YELLOW EMPRESS | colonialtiger1423 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@colonialtiger1423/projects/the-yellow-empress) |
-| 4516 | The Youngest Council Member | mysticaltiger1386 | 0 | 2.0000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@mysticaltiger1386/projects/the-youngest-council-member) |
-| 4517 | Thirst of the Hills | shariartawsif | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@shariartawsif/projects/thirst-of-the-hills) |
-| 4518 | Those Behind Us | aidoskabiden | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@aidoskabiden/projects/those-behind-us) |
-| 4519 | THROUGH CHILDREN’S EYES | baigali98kz | 0 | 2.1000 | 1 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@baigali98kz/projects/through-children-s-eyes) |
-| 4520 | Through the jungle | thinkingsoda1508 | 0 | 2.0000 | 1 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@thinkingsoda1508/projects/through-the-jungle) |
-| 4521 | Time Runner | discoveringgiraffe_super | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@discoveringgiraffe_super/projects/time-runner) |
-| 4522 | Timeless Dream Scapes - A Visual Ode to Nagaland | mondriancarrot1866 | 0 | 2.9000 | 0 | Not available | [Source](https://higgsfield.ai/@mondriancarrot1866/projects/ai-film-festival) |
-| 4523 | Tiny Paws Lullaby | grizzfriends | 0 | 0.0004 | 0 | Not available | [Source](https://higgsfield.ai/@grizzfriends/projects/tiny-paws-lullaby) |
-| 4524 | to the new world | chiragkumar33 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@chiragkumar33/projects/to-the-new-world) |
-| 4525 | Tomochic | azael_azufre | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@azael_azufre/projects/tomochic) |
-| 4526 | TRACKERS:AFTERMATH | prairieraven_lol | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@prairieraven_lol/projects/trackers-aftermath) |
-| 4527 | Uncertain Destiny - A New President | alex_rosmon | 0 | 4.1000 | 0 | Not available | [Source](https://higgsfield.ai/@alex_rosmon/projects/uncertain-destiny-a-new-president) |
-| 4528 | Under the Mask (Spy story) | adaptivechinchilla1813 | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@adaptivechinchilla1813/projects/ai-film-festival) |
-| 4529 | Under the Moonlight II - Oficial Music Video by Rosenkröjz & @ideaswarehouse | adventuringstrawberry1363 | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@adventuringstrawberry1363/projects/under-the-moonlight-ii-oficial-music-video-by-rosenkr-jz-ide) |
-| 4530 | UNDERNEATH | byzantine_narwhal_mini | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@byzantine_narwhal_mini/projects/underneath) |
-| 4531 | Vargan | quantumpulse | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@quantumpulse/projects/vargan) |
-| 4532 | Vasbyt - A Film About a Rhino, and Why I Made One in Bronze | abstract_pen_1064 | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@abstract_pen_1064/projects/vasbyt-a-film-about-a-rhino-and-why-i-made-one-in-bronze) |
-| 4533 | Velvet Neons - Permanent Weekend - music video | purpleadder | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@purpleadder/projects/velvet-neons-permanent-weekend-music-video) |
-| 4534 | VENICE festival | runningeraser_alpha | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@runningeraser_alpha/projects/venice-festival) |
-| 4535 | Vienna in Motion | boldsapphire1388 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@boldsapphire1388/projects/vienna-in-motion) |
-| 4536 | Viewing Discretion | studio-psumo | 0 | 3.1000 | 111 | Nano Banana Pro (83.7838%); Seedance 2.5 (16.2162%) | [Source](https://higgsfield.ai/@studio-psumo/projects/d040c69f-3d4a-418b-82dd-3e9ca4404417) |
-| 4537 | War of the Dragons | tarekzidan333 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@tarekzidan333/projects/war-of-the-dragons) |
-| 4538 | wasp | bauhausmoon1579 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bauhausmoon1579/projects/wasp) |
-| 4539 | Welcome to Utopia | imaginingtaco1436 | 0 | 5.5000 | 260 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@imaginingtaco1436/projects/welcome-to-utopia) |
-| 4540 | What Remains | prismaistudio | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@prismaistudio/projects/what-remains) |
-| 4541 | What told him | green_kangaroo_1055 | 0 | 3.9000 | 0 | Not available | [Source](https://higgsfield.ai/@green_kangaroo_1055/projects/what-told-him) |
-| 4542 | When the Water Falls / Quando a Água Baixa | ivaldotrentin | 0 | 2.1000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@ivaldotrentin/projects/when-the-water-falls-quando-a-gua-baixa) |
-| 4543 | WHO IS LILLY? (2026) \| Al Psychological Thriller Short Film \| Higgsfield Al Film Festival | amberologie | 0 | 3.0000 | 1 | Nano Banana Pro (100.0000%) | [Source](https://higgsfield.ai/@amberologie/projects/who-is-lilly-2026-al-psychological-thriller-short-film-higgs) |
-| 4544 | Why One Electron Builds an Interference Pattern by Itself | bear_brown | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@bear_brown/projects/why-one-electron-builds-an-interference-pattern-by-itself) |
-| 4545 | Wild Donkey | calderpancake1782 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@calderpancake1782/projects/wild-donkey) |
-| 4546 | WIZARD OF THE NORTH | kalykazz | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@kalykazz/projects/ai-film-festival-2) |
-| 4547 | Wohi Khuda He | faizan_arshad | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@faizan_arshad/projects/wohi-khuda-he) |
-| 4548 | WORLD OF THE DEAD | chillingcheese1431 | 0 | 3.9000 | 0 | Not available | [Source](https://higgsfield.ai/@chillingcheese1431/projects/world-of-the-dead) |
-| 4549 | World's First Real Human Face Ai Movie 2hr 32m Fully Ai Generated | sdbc_production | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@sdbc_production/projects/ai-film-festival) |
-| 4550 | WWIII | nahron07 | 0 | 2.9000 | 0 | Not available | [Source](https://higgsfield.ai/@nahron07/projects/wwiii) |
-| 4551 | Xiaoyu’s Mouse Genie | fishyu | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@fishyu/projects/xiaoyu-s-mouse-genie) |
-| 4552 | YOON WI | van_goghstrawberry1781 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@van_goghstrawberry1781/projects/yoon-wi) |
-| 4553 | YOU AGAIN! | zoomingseal1316 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@zoomingseal1316/projects/ai-film-festival-2) |
-| 4554 | YUGA | speeding_snow_1027 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@speeding_snow_1027/projects/yuga) |
-| 4555 | ZEPHYR | damirash | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@damirash/projects/zephyr) |
-| 4556 | Zephyr  -  Episode 1 | Higgsfield Studio | 0 | 0.0000 | 18,682 | Not available | [Source](https://higgsfield.ai/@higgsfield.studio/projects/zephyr) |
-| 4557 | Zephyr  -  Special | Higgsfield Studio | 0 | 0.0000 | 4,837 | Not available | [Source](https://higgsfield.ai/@higgsfield.studio/projects/zephyr-special) |
-| 4558 | ZombieSchool | blacklabproductions | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@blacklabproductions/projects/zombieschool) |
-| 4559 | ¿Qué falta? | trainingmoon1526 | 0 | 2.1000 | 79 | Seedance 2.0 Unlimited (67.0886%); Nano Banana 2 (30.3797%); Seedream 4.5 (1.2658%); Nano Banana Pro Unlimited (1.2658%) | [Source](https://higgsfield.ai/@trainingmoon1526/projects/qu-falta) |
-| 4560 | Он превратил Ад в Рай | 132 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@132/projects/on-prevratil-ad-v-ray) |
-| 4561 | سعيد بن زيد \| صاحب الدعوة القاتلة وأحد المبشرين بالجنة | mohamedic3 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@mohamedic3/projects/) |
-| 4562 | 《The Last "Dragon" That Killed Him》 | twinkling_carrot_1037 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@twinkling_carrot_1037/projects/the-last-dragon-that-killed-him) |
-| 4563 | 《春風》～ Ming Wah events （预告片 Trailer） | blueprintparrot1808 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@blueprintparrot1808/projects/ming-wah-events-trailer) |
-| 4564 | 超时空霹雳花 | a_wu_i | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@a_wu_i/projects/) |
-| 4565 | 검은 파도의 끝 | flowingwombat1359 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@flowingwombat1359/projects/) |
-| 4566 | 길티 플레저 Guilty Pleasure | fourierdeer1671 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@fourierdeer1671/projects/guilty-pleasure) |
-| 4567 | 무인 경비대 The Last Patrol | fourierdeer1671 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@fourierdeer1671/projects/the-last-patrol) |
-| 4568 | 𝔈𝔵𝔞𝔩𝔱𝔞𝔱𝔦𝔬𝔫 𝔬𝔣 𝔱𝔥𝔢 𝔏𝔞𝔱𝔯𝔬𝔡𝔢𝔠𝔱𝔲𝔰 𝔞𝔫𝔡 𝔱𝔥𝔢 𝔒𝔟𝔰𝔦𝔡𝔦𝔞𝔫 𝔐𝔦𝔯𝔯𝔬𝔯 | mirrorreaper1313 | 0 | 3.1000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@mirrorreaper1313/projects/) |
-| 4569 | 🔥Skárdis Ironblood🔥 | ervfgr | 0 | 10.7000 | 0 | Not available | [Source](https://higgsfield.ai/@ervfgr/projects/sk-rdis-ironblood) |
-| 4570 | 🥇 The Last War 1 | khalid_mohamed_1 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@khalid_mohamed_1/projects/the-last-war-1) |
-| 4571 | Arena Zero  -  Ep. 1 | Higgsfield Studio | Not available | Not available | Not available | Not available | [Source](https://higgsfield.ai/original-series/arena-zero/episode-1) |
-| 4572 | MORK  -  Episode 1 | Higgsfield Studio | Not available | Not available | Not available | Not available | [Source](https://higgsfield.ai/original-series/mork/episode-1) |
+| 4006 | AI film 1 | craftsman_tadpole_gnarly | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@craftsman_tadpole_gnarly/projects/ai-film-1) |
+| 4007 | AI Film Festival | picassotaco1785 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@picassotaco1785/projects/ai-film-festival) |
+| 4008 | AI Film Festival | residentialopossum1735 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@residentialopossum1735/projects/ai-film-festival) |
+| 4009 | AI Film Festival | chilling_porcupine_42 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@chilling_porcupine_42/projects/ai-film-festival) |
+| 4010 | AI Film Festival | gefa03 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@gefa03/projects/ai-film-festival) |
+| 4011 | AI Film Festival | baxa | 0 | 1.1000 | 0 | Not available | [Source](https://higgsfield.ai/@baxa/projects/) |
+| 4012 | AI Film Festival | rodinwater1422 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@rodinwater1422/projects/ai-film-festival) |
+| 4013 | AI Film Festival | kenator | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@kenator/projects/ai-film-festival) |
+| 4014 | AI Film Festival | rothkoavocado1867 | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@rothkoavocado1867/projects/ai-film-festival) |
+| 4015 | AI Film Festival | deconstructivistaxolotl1371 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@deconstructivistaxolotl1371/projects/ai-film-festival) |
+| 4016 | AI Film Festival | designingfalcon1448 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@designingfalcon1448/projects/ai-film-festival) |
+| 4017 | AI Film Festival | alifarrr | 0 | 6.0000 | 0 | Not available | [Source](https://higgsfield.ai/@alifarrr/projects/ai-film-festival) |
+| 4018 | AI Film Festival | impressionistjuice1621 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@impressionistjuice1621/projects/ai-film-festival) |
+| 4019 | AI Film Festival | dreaming_rainbow_sigma | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@dreaming_rainbow_sigma/projects/ai-film-festival) |
+| 4020 | AI Film Festival | reyasvai5 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@reyasvai5/projects/ai-film-festival) |
+| 4021 | AI Film Festival | bouncingmanatee1394 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bouncingmanatee1394/projects/ai-film-festival) |
+| 4022 | AI Film Festival | synthwavejuice1663 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@synthwavejuice1663/projects/ai-film-festival) |
+| 4023 | AI Film Festival | bouncingcupcake1191 | 0 | 3.2000 | 1 | Nano Banana Pro (100.0000%) | [Source](https://higgsfield.ai/@bouncingcupcake1191/projects/ai-film-festival) |
+| 4024 | AI Film Festival | rionenn5416 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@rionenn5416/projects/ai-film-festival) |
+| 4025 | AI Film Festival | leonardosun1901 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@leonardosun1901/projects/ai-film-festival) |
+| 4026 | AI Film Festival | hospitalitysloth1646 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@hospitalitysloth1646/projects/ai-film-festival) |
+| 4027 | AI Film Festival | discoveringtea1493 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@discoveringtea1493/projects/ai-film-festival) |
+| 4028 | AI Film Festival | botticellionion1816 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@botticellionion1816/projects/ai-film-festival) |
+| 4029 | AI Film Festival | modularfalcon1891 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@modularfalcon1891/projects/ai-film-festival) |
+| 4030 | AI Film Festival | sunilnarnaulia | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@sunilnarnaulia/projects/ai-film-festival) |
+| 4031 | AI Film Festival | immybwj | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@immybwj/projects/ai-film-festival) |
+| 4032 | AI Film Festival | kirillvizualizer | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@kirillvizualizer/projects/ai-film-festival) |
+| 4033 | AI Film Festival | vibinggrape1501 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@vibinggrape1501/projects/ai-film-festival) |
+| 4034 | AI Film Festival | relaxing_coffee_x | 0 | 2.5000 | 54 | Seedance 2.5 (62.9630%); Seedream 4.5 (16.6667%); Nano Banana 2 (9.2593%); Kling O1 Image (5.5556%); Seedance 2.0 Mini Unlimited (1.8519%); Enhanced Seedance 2.0 Fast Unlimited (1.8519%); FLUX.2 (1.8519%) | [Source](https://higgsfield.ai/@relaxing_coffee_x/projects/ai-film-festival) |
+| 4035 | AI Film Festival | romanesquecapybara1836 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@romanesquecapybara1836/projects/ai-film-festival) |
+| 4036 | AI Film Festival | singingpretzel_mega | 0 | 0.9433 | 0 | Not available | [Source](https://higgsfield.ai/@singingpretzel_mega/projects/ai-film-festival) |
+| 4037 | AI Film Festival | victorianworm1708 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@victorianworm1708/projects/ai-film-festival) |
+| 4038 | AI Film Festival | glitchtomato_wild | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@glitchtomato_wild/projects/ai-film-festival) |
+| 4039 | AI Film Festival | robxn | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@robxn/projects/ai-film-festival) |
+| 4040 | AI Film Festival | thinkingbanana1475 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@thinkingbanana1475/projects/ai-film-festival) |
+| 4041 | AI Film Festival | rafael_reis | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@rafael_reis/projects/ai-film-festival) |
+| 4042 | AI Film Festival | monahlive | 0 | 2.5000 | 1 | Nano Banana Pro (100.0000%) | [Source](https://higgsfield.ai/@monahlive/projects/ai-film-festival) |
+| 4043 | AI Film Festival | matisse_rock_max | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@matisse_rock_max/projects/ai-film-festival) |
+| 4044 | AI Film Festival | eleganteraser1306 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@eleganteraser1306/projects/ai-film-festival) |
+| 4045 | AI Film Festival | victorianbison1808 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@victorianbison1808/projects/ai-film-festival) |
+| 4046 | AI Film Festival | gothiccarrot1678 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@gothiccarrot1678/projects/ai-film-festival) |
+| 4047 | AI Film Festival | morphingcarrot1319 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@morphingcarrot1319/projects/ai-film-festival) |
+| 4048 | AI Film Festival | runningwalrus1377 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@runningwalrus1377/projects/ai-film-festival) |
+| 4049 | AI Film Festival | theatrehiversolidaire | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@theatrehiversolidaire/projects/ai-film-festival) |
+| 4050 | AI Film Festival | commercialcamel1808 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@commercialcamel1808/projects/ai-film-festival) |
+| 4051 | AI Film Festival | speedingseal1406 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@speedingseal1406/projects/ai-film-festival) |
+| 4052 | AI Film Festival | annadaatafood | 0 | 3.4000 | 0 | Not available | [Source](https://higgsfield.ai/@annadaatafood/projects/ai-film-festival) |
+| 4053 | AI Film Festival | thinkingpelican_x | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@thinkingpelican_x/projects/ai-film-festival) |
+| 4054 | AI Film Festival | yakovco44 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@yakovco44/projects/ai-film-festival) |
+| 4055 | AI Film Festival | cauchydolphin1689 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@cauchydolphin1689/projects/ai-film-festival) |
+| 4056 | AI Film Festival | etherealbeetle1410 | 0 | 4.3000 | 0 | Not available | [Source](https://higgsfield.ai/@etherealbeetle1410/projects/ai-film-festival) |
+| 4057 | AI Film Festival | fluidbroccoli1671 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@fluidbroccoli1671/projects/ai-film-festival) |
+| 4058 | AI Film Festival | kandinskypotato1588 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@kandinskypotato1588/projects/ai-film-festival) |
+| 4059 | AI Film Festival | sol610 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@sol610/projects/ai-film-festival) |
+| 4060 | AI Film Festival | zmeysab | 0 | 9.3000 | 0 | Not available | [Source](https://higgsfield.ai/@zmeysab/projects/ai-film-festival) |
+| 4061 | AI Film Festival | highriseaxolotl1783 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@highriseaxolotl1783/projects/ai-film-festival) |
+| 4062 | AI Film Festival | lewisshiffy | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@lewisshiffy/projects/ai-film-festival) |
+| 4063 | AI Film Festival | learningquokka1209 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@learningquokka1209/projects/ai-film-festival) |
+| 4064 | AI Film Festival | sharperaser1688 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@sharperaser1688/projects/ai-film-festival) |
+| 4065 | AI Film Festival | adaptiveraccoon1408 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@adaptiveraccoon1408/projects/ai-film-festival) |
+| 4066 | AI Film Festival | brewingcheese_dope | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@brewingcheese_dope/projects/ai-film-festival) |
+| 4067 | AI Film Festival | abramoviccheese1585 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@abramoviccheese1585/projects/ai-film-festival) |
+| 4068 | AI Film Festival | einsteinhippo1523 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@einsteinhippo1523/projects/ai-film-festival) |
+| 4069 | AI Film Festival | rococo_rainbow | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@rococo_rainbow/projects/ai-film-festival) |
+| 4070 | AI Film Festival | adaptivebeluga_radical | 0 | 3.1000 | 0 | Not available | [Source](https://higgsfield.ai/@adaptivebeluga_radical/projects/ai-film-festival) |
+| 4071 | AI Film Festival | goyaapple1755 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@goyaapple1755/projects/ai-film-festival) |
+| 4072 | AI Film Festival | tschai61 | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@tschai61/projects/ai-film-festival) |
+| 4073 | AI Film Festival | vibing_lamp_2000 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@vibing_lamp_2000/projects/ai-film-festival) |
+| 4074 | AI Film Festival | gausslion1797 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@gausslion1797/projects/ai-film-festival) |
+| 4075 | AI Film Festival | surrealbagel1340 | 0 | 2.1000 | 1 | Higgsfield Genjutsu - Motion Transfer (100.0000%) | [Source](https://higgsfield.ai/@surrealbagel1340/projects/ai-film-festival) |
+| 4076 | AI Film Festival | dramaticcake_max | 0 | 4.7000 | 0 | Not available | [Source](https://higgsfield.ai/@dramaticcake_max/projects/ai-film-festival) |
+| 4077 | AI Film Festival | dangerous83 | 0 | 3.0000 | 0 | Not available | [Source](https://higgsfield.ai/@dangerous83/projects/ai-film-festival) |
+| 4078 | AI Film Festival | driftingcapybara1420 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@driftingcapybara1420/projects/ai-film-festival) |
+| 4079 | AI Film Festival | bsg_studios | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@bsg_studios/projects/ai-film-festival) |
+| 4080 | AI Film Festival | adventuring_pencil_404 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@adventuring_pencil_404/projects/ai-film-festival) |
+| 4081 | AI Film Festival | einsteinfox1412 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@einsteinfox1412/projects/ai-film-festival) |
+| 4082 | AI Film Festival | basquiatsun1569 | 0 | 2.1000 | 4 | Soul Cinematic (75.0000%); Seedream 4.5 (25.0000%) | [Source](https://higgsfield.ai/@basquiatsun1569/projects/ai-film-festival) |
+| 4083 | AI Film Festival | caravaggiosun_super | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@caravaggiosun_super/projects/ai-film-festival) |
+| 4084 | AI Film Festival | mccarthydragonfly1438 | 0 | 2.1000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@mccarthydragonfly1438/projects/ai-film-festival) |
+| 4085 | AI Film Festival "Deep End" a film by Shahid Gill | aiwoodstudio | 0 | 3.8000 | 0 | Not available | [Source](https://higgsfield.ai/@aiwoodstudio/projects/ai-film-festival-deep-end-a-film-by-shahid-gill) |
+| 4086 | AI Film Festival ( Les frontières du coeur ) | stephanezelou | 0 | 3.2000 | 0 | Not available | [Source](https://higgsfield.ai/@stephanezelou/projects/ai-film-festival-les-fronti-res-du-coeur) |
+| 4087 | AI Film Festival - 0% | brutalistdragonfly1419 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@brutalistdragonfly1419/projects/ai-film-festival-0) |
+| 4088 | AI Film Festival - Beyond Earth | seoulstreamingstation | 0 | 4.4000 | 0 | Not available | [Source](https://higgsfield.ai/@seoulstreamingstation/projects/ai-film-festival-beyond-earth) |
+| 4089 | AI Film Festival - Explorers of unknow | khajiter | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@khajiter/projects/ai-film-festival-explorers-of-unknow) |
+| 4090 | AI Film Festival - Into The Anaconda's Shadow | deconstructivist_newt_1075 | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@deconstructivist_newt_1075/projects/ai-film-festival-into-the-anaconda-s-shadow) |
+| 4091 | AI Film Festival - Sovereign Ascent | victorianflamingo1165 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@victorianflamingo1165/projects/ai-film-festival-sovereign-ascent) |
+| 4092 | AI Film Festival 2 | guillegraphy | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@guillegraphy/projects/ai-film-festival-2) |
+| 4093 | AI Film Festival 2 | modernistpangolin1792 | 0 | 5.0000 | 0 | Not available | [Source](https://higgsfield.ai/@modernistpangolin1792/projects/ai-film-festival-2) |
+| 4094 | AI Film Festival 2 | prairiehawk1551 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@prairiehawk1551/projects/ai-film-festival-2) |
+| 4095 | AI Film Festival 2 | brutalistmuffin1590 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@brutalistmuffin1590/projects/ai-film-festival-2) |
+| 4096 | AI Film Festival 2 | soaringtiger1293 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@soaringtiger1293/projects/ai-film-festival-2) |
+| 4097 | AI Film Festival 2 | hokusaipretzel1871 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@hokusaipretzel1871/projects/ai-film-festival-2) |
+| 4098 | AI Film Festival 2 | warholcake1540 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@warholcake1540/projects/ai-film-festival-2) |
+| 4099 | AI Film Festival 2 | lifestylesupplies | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@lifestylesupplies/projects/ai-film-festival-2) |
+| 4100 | AI Film Festival 2 | fermatwolf_meme | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@fermatwolf_meme/projects/ai-film-festival-2) |
+| 4101 | AI Film Festival 2 | retail_beetle_1005 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@retail_beetle_1005/projects/ai-film-festival-2) |
+| 4102 | AI Film Festival 2 | bakingfalcon1407 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@bakingfalcon1407/projects/ai-film-festival-2) |
+| 4103 | AI Film Festival 2 | caravaggiosun_super | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@caravaggiosun_super/projects/ai-film-festival-2) |
+| 4104 | AI Film Festival 2 | innerseed | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@innerseed/projects/ai-film-festival-2) |
+| 4105 | AI Film Festival 2 | skippingpepper1467 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@skippingpepper1467/projects/ai-film-festival-2) |
+| 4106 | AI Film Festival 2 | afrikawest | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@afrikawest/projects/ae92843b-6fe3-4083-9c29-a305c1d49c5a) |
+| 4107 | AI Film Festival 2 | cantorraven1702 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@cantorraven1702/projects/ai-film-festival-2) |
+| 4108 | AI Film Festival 2 | parametriccaterpillar1857 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@parametriccaterpillar1857/projects/) |
+| 4109 | AI Film Festival 2 | craftsmanbutterfly1450 | 0 | 4.0000 | 72 | Nano Banana Pro Unlimited (63.8889%); Kling 3 Unlimited (36.1111%) | [Source](https://higgsfield.ai/@craftsmanbutterfly1450/projects/ai-film-festival-2) |
+| 4110 | AI Film Festival 2 | ishaanpatel11 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@ishaanpatel11/projects/ai-film-festival-2) |
+| 4111 | AI Film Festival 2 | culturalllama1846 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@culturalllama1846/projects/ai-film-festival-2) |
+| 4112 | AI Film Festival 2 ( 𝑻𝑯𝑬 𝑳𝑨𝑺𝑻 𝑯𝑬𝑰𝑺𝑻  33 MIN SHORT MOVIE ) | gothicshrimp1786 | 0 | 3.6000 | 0 | Not available | [Source](https://higgsfield.ai/@gothicshrimp1786/projects/ai-film-festival-2-the-last-heist) |
+| 4113 | AI Film Festival 2. The future worth living in | minimaliststar1514 | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@minimaliststar1514/projects/ai-film-festival-2-the-future-worth-living-in) |
+| 4114 | AI Film Festival 3 | relaxingplatypus1259 | 0 | 1.1000 | 0 | Not available | [Source](https://higgsfield.ai/@relaxingplatypus1259/projects/ai-film-festival-3) |
+| 4115 | AI Film Festival 3 | greenbuffalo1797 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@greenbuffalo1797/projects/ai-film-festival-3) |
+| 4116 | AI Film Festival 3 | wakingpretzel1518 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@wakingpretzel1518/projects/ai-film-festival-3) |
+| 4117 | AI Film Festival 3 | buildingpickle1070 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@buildingpickle1070/projects/ai-film-festival-3) |
+| 4118 | AI Film Festival 3 | descartesbeluga_nova | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@descartesbeluga_nova/projects/ai-film-festival-3) |
+| 4119 | AI Film Festival 3 | sharif1704 | 0 | 2.0000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@sharif1704/projects/ai-film-festival-3) |
+| 4120 | AI Film Festival 3 | michi_lux | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@michi_lux/projects/ai-film-festival-3) |
+| 4121 | AI Film Festival 3 | wakingpelican1468 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@wakingpelican1468/projects/ai-film-festival-3) |
+| 4122 | AI Film Festival 3 | bauhauscroissant1416 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bauhauscroissant1416/projects/ai-film-festival-3) |
+| 4123 | AI Film Festival 4 | sha_higgs | 0 | 2.1000 | 19 | Soul Cinematic (84.2105%); Higgsfield Soul V2 (15.7895%) | [Source](https://higgsfield.ai/@sha_higgs/projects/ai-film-festival-4) |
+| 4124 | AI Film Festival 4 | vignesh2_1 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@vignesh2_1/projects/ai-film-festival-4) |
+| 4125 | AI Film Festival 4 | feynman_platypus_epic | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@feynman_platypus_epic/projects/ai-film-festival-4) |
+| 4126 | AI Film Festival 4 | ramanujanchinchilla1579 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@ramanujanchinchilla1579/projects/ai-film-festival-4) |
+| 4127 | AI Film Festival 4 | fauvetea1580 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@fauvetea1580/projects/ai-film-festival-4) |
+| 4128 | AI Film Festival 5 | playfulrainbow_cult | 0 | 2.7000 | 0 | Not available | [Source](https://higgsfield.ai/@playfulrainbow_cult/projects/ai-film-festival-5) |
+| 4129 | AI Film Festival 5 | siang86 | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@siang86/projects/ai-film-festival-5) |
+| 4130 | AI Film Festival AD | trainingbutterfly1398 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@trainingbutterfly1398/projects/ai-film-festival-ad) |
+| 4131 | AI Film Festival Pedro | racingfrog1327 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@racingfrog1327/projects/ai-film-festival-pedro) |
+| 4132 | AI Film Festival submission: Ghostsync | mixingrainbow1340 | 0 | 2.7000 | 0 | Not available | [Source](https://higgsfield.ai/@mixingrainbow1340/projects/ai-film-festival-submission) |
+| 4133 | AI Film Festival Try | playfulbanana1585 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@playfulbanana1585/projects/ai-film-festival-try) |
+| 4134 | AI Film Festival \| Ravens In My Head | wender_tatu | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@wender_tatu/projects/ai-film-festival-ravens-in-my-head) |
+| 4135 | AI Film FestivalTHE COSMIC DANCE  -  A Creation Myth | civicdragonfly1601 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@civicdragonfly1601/projects/ai-film-festivalthe-cosmic-dance-a-creation-myth) |
+| 4136 | Aionverse Chapter: 1 | jammingburrito1107 | 0 | 4.9000 | 0 | Not available | [Source](https://higgsfield.ai/@jammingburrito1107/projects/aionverse-chapter-1) |
+| 4137 | Aktous Finding | antongranik | 0 | 3.8000 | 0 | Not available | [Source](https://higgsfield.ai/@antongranik/projects/aktous-finding) |
+| 4138 | Alaska | neonemerald1627 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@neonemerald1627/projects/alaska) |
+| 4139 | Alice in the Cubicle | nashhedgehog1547 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@nashhedgehog1547/projects/alice-in-the-cubicle) |
+| 4140 | Alien City | racingkangaroo1336 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@racingkangaroo1336/projects/alien-city) |
+| 4141 | ALIENOPES | rahul_jay_06 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@rahul_jay_06/projects/ai-film-festival-3) |
+| 4142 | Alina | theroomfilms | 0 | 5.1000 | 0 | Not available | [Source](https://higgsfield.ai/@theroomfilms/projects/alina) |
+| 4143 | America 250: The Baldwin Freegle Story | magneticbehavior | 0 | 1.4000 | 0 | Not available | [Source](https://higgsfield.ai/@magneticbehavior/projects/america-250-the-baldwin-freegle-story) |
+| 4144 | An Almost Too Sweet Story『あまりにあま〜い物語』 | yuuyoa | 0 | 1.1000 | 0 | Not available | [Source](https://higgsfield.ai/@yuuyoa/projects/an-almost-too-sweet-story) |
+| 4145 | ANADIPLOSIS | annehorel | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@annehorel/projects/anadiplosis) |
+| 4146 | Animal World | ramanujandeer1683 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@ramanujandeer1683/projects/animal-world) |
+| 4147 | Apex Velocity : F1 | ratebboulaich | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@ratebboulaich/projects/apex-velocity-f1) |
+| 4148 | ARCANEPUNK | dijkstra_dolphin_chad | 0 | 3.7000 | 0 | Not available | [Source](https://higgsfield.ai/@dijkstra_dolphin_chad/projects/arcanepunk) |
+| 4149 | Archetypes | kangaroo_dynasty | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@kangaroo_dynasty/projects/archetypes) |
+| 4150 | AROUSA | hoopas | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@hoopas/projects/arousa) |
+| 4151 | Aruan & the Clan of Shadows | germano_gomes_adj | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@germano_gomes_adj/projects/aruan-the-clan-of-shadows) |
+| 4152 | Ascent | adaptingeagle1320 | 0 | 2.6000 | 14 | Seedream 4.5 (100.0000%) | [Source](https://higgsfield.ai/@adaptingeagle1320/projects/ascent) |
+| 4153 | AURA | lejardinier | 0 | 6.3000 | 228 | Seedance 2.5 (59.2105%); Soul Cinematic (21.9298%); Nano Banana Pro (9.6491%); Cinematic Studio Soul Location (5.2632%); Nano Banana 2 (1.7544%); Seedream 5.0 Pro (1.3158%); Bytedance Video Upscale (0.4386%); Higgsfield Soul V2 (0.4386%) | [Source](https://higgsfield.ai/@lejardinier/projects/aura) |
+| 4154 | Aya's best day | madi_zhagi | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@madi_zhagi/projects/aya-s-best-day) |
+| 4155 | Back from Dead, Twice! | mixed_useotter1763 | 0 | 2.7000 | 0 | Not available | [Source](https://higgsfield.ai/@mixed_useotter1763/projects/back-from-dead-twice) |
+| 4156 | BACKSTITCH | throbbingpie1344 | 0 | 2.0000 | 1 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@throbbingpie1344/projects/backstitch) |
+| 4157 | Bad dream | residentialshrimp1561 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@residentialshrimp1561/projects/bad-dream) |
+| 4158 | Bad Trip (Festival Entry) | xre99 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@xre99/projects/bad-trip-festival-entry) |
+| 4159 | Bangladesh, Through Our Eyes  -  An AI Film | streamingblueberry1439 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@streamingblueberry1439/projects/ai-film-festival-2) |
+| 4160 | bbailarovb - AI Film Festival | bbailarovb | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bbailarovb/projects/bbailarovb-ai-film-festival) |
+| 4161 | BE FREE | bnbcreators | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@bnbcreators/projects/be-freee) |
+| 4162 | BEAST AND THE BEAUTY | driftingferret1043 | 0 | 3.1000 | 0 | Not available | [Source](https://higgsfield.ai/@driftingferret1043/projects/beast-and-the-beauty) |
+| 4163 | Beauty East | curiecamel1703 | 0 | 2.4000 | 34 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@curiecamel1703/projects/acc12b6f-8651-455d-ba79-89a1450c128c) |
+| 4164 | BEFORE THE GODS AWAKEN | himesh_landge | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@himesh_landge/projects/before-the-gods-awaken) |
+| 4165 | Before the Sun Forgets | saqibalii | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@saqibalii/projects/before-the-sun-forgets) |
+| 4166 | Before you leave | ramaonline | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@ramaonline/projects/before-you-leave) |
+| 4167 | BENEATH THE PINES | tselcinema | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@tselcinema/projects/beneath-the-pines) |
+| 4168 | Beowulf ep 1 | theuniversalvideopedia | 0 | 4.9000 | 0 | Not available | [Source](https://higgsfield.ai/@theuniversalvideopedia/projects/beowulf-ep-1) |
+| 4169 | BEOWULF  -  THE NIGHT OF GRENDEL | hyperrealisticstar1427 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@hyperrealisticstar1427/projects/beowulf-the-night-of-grendel) |
+| 4170 | Bernardo O'Higgins El Legado | dircom | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@dircom/projects/bernardo-o-higgins-el-legado) |
+| 4171 | Black Silence | drawingbeluga1165 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@drawingbeluga1165/projects/ai-film-festival) |
+| 4172 | Blood Bind | jahviiee | 0 | 2.7000 | 0 | Not available | [Source](https://higgsfield.ai/@jahviiee/projects/blood-bind) |
+| 4173 | Blood Sisters | marileda | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@marileda/projects/blood-sisters-ai-film-festival) |
+| 4174 | BLUNT 花 | nandayotime | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@nandayotime/projects/blunt) |
+| 4175 | BOOZ, BRAIN & BLUES | mrhoures | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@mrhoures/projects/booz-brain-blues) |
+| 4176 | Borrowed Hands | glowingplanet1448 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@glowingplanet1448/projects/borrowed-hands) |
+| 4177 | Bruce the Blueberry Moose sings ‘Blueberry Blue’ | mystical_chap | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mystical_chap/projects/bruce-the-blueberry-moose-sings-blueberry-blue) |
+| 4178 | Calling From Tomorrow | highrisenewt1601 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@highrisenewt1601/projects/calling-from-tomorrow) |
+| 4179 | Canvas \| Pt.1 | bellasoulart | 0 | 4.0000 | 81 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@bellasoulart/projects/canvas) |
+| 4180 | Chronologue | tvnet | 0 | 3.0000 | 151 | Seedance 2.5 (57.6159%); Higgsfield Soul V2 (34.4371%); Cinematic Studio Soul Location (5.2980%); Nano Banana Pro (2.6490%) | [Source](https://higgsfield.ai/@tvnet/projects/chronologue) |
+| 4181 | City of Chengdu - 4.5K Years Timelapse | flyingdugong1283 | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@flyingdugong1283/projects/city-of-chengdu-4-5k-years-timelapse) |
+| 4182 | Cleopatra | throbbingwalrus1096 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@throbbingwalrus1096/projects/cleopatra) |
+| 4183 | Clockwork Eclipse | jumpingbook1449 | 0 | 7.1000 | 39 | Seedance 2.0 Unlimited (100.0000%) | [Source](https://higgsfield.ai/@jumpingbook1449/projects/clockwork-eclipse) |
+| 4184 | Clu:Kennwort | turinghedgehog1543 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@turinghedgehog1543/projects/clu-kennwort) |
+| 4185 | Come With Us | jackmcm | 0 | 3.4000 | 39 | Seedance 2.5 (94.8718%); Higgsfield Soul V2 (5.1282%) | [Source](https://higgsfield.ai/@jackmcm/projects/come-with-us) |
+| 4186 | Companion | degasdiamond_3000 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@degasdiamond_3000/projects/companion) |
+| 4187 | CONSENT | runninggrape1449 | 0 | 3.2000 | 1 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@runninggrape1449/projects/consent) |
+| 4188 | CORA | frsama | 0 | 5.4000 | 0 | Not available | [Source](https://higgsfield.ai/@frsama/projects/cora) |
+| 4189 | CREDITS NEEDED - WINNING POTENTIAL FILM FESTIVAL ENTRY | lightskaiaaction | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@lightskaiaaction/projects/credits-needed-winning-potential-film-festival-entry) |
+| 4190 | Crimson Hearts | onayef | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@onayef/projects/crimson) |
+| 4191 | CTRL+ALT+DELETE INTRO | van_goghdrone1755 | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@van_goghdrone1755/projects/ctrl-alt-delete-intro) |
+| 4192 | Dance of the Soul | mohammedghanemscenography | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mohammedghanemscenography/projects/ai-film-festival) |
+| 4193 | DATE 2046 | bourgeoisbroccoli1444 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bourgeoisbroccoli1444/projects/date-2046) |
+| 4194 | Day and Night | jodzi | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@jodzi/projects/day-and-night) |
+| 4195 | DayDream: Bronze One: Path of Awakening- Chapter 1 | evolvingpangolin1247 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@evolvingpangolin1247/projects/daydream-bronze-one-path-of-awakening-chapter-1) |
+| 4196 | DEADMAN'S VALLEY: SEVEN SINS OF EARTH 35 | pointillistsapphire1516 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@pointillistsapphire1516/projects/deadman-s-valley-seven-sins-of-earth-35) |
+| 4197 | Death's Performance Review | sporkmaster269 | 0 | 3.2000 | 0 | Not available | [Source](https://higgsfield.ai/@sporkmaster269/projects/death-s-performance-review) |
+| 4198 | DELETE + U | fluidgem1143 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@fluidgem1143/projects/delete-u) |
+| 4199 | Desert Rose | massimilianomaugeri70 | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@massimilianomaugeri70/projects/desert-rose) |
+| 4200 | DESTINY'S EMBRACE | mswonder | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@mswonder/projects/destiny-s-embrace) |
+| 4201 | Deus Ex Machina | wwwwooyeon | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@wwwwooyeon/projects/deus-ex-machina) |
+| 4202 | Die Young | baroquemoon1297 | 0 | 2.0000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@baroquemoon1297/projects/die-young) |
+| 4203 | Dirty Dagoes | m45uk1 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@m45uk1/projects/dirty-dagoes) |
+| 4204 | Disappearing | picassoblueberry1579 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@picassoblueberry1579/projects/disappearing) |
+| 4205 | Domino World | parametric_seahorse_special | 0 | 2.1000 | 16 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@parametric_seahorse_special/projects/domino-world) |
+| 4206 | don’t Answer | marwanhilal | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@marwanhilal/projects/don-t-answer) |
+| 4207 | door gods | synthwaveapple1543 | 0 | 1.6000 | 45 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@synthwaveapple1543/projects/new) |
+| 4208 | DRACO's FORTUNE | demetris101 | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@demetris101/projects/ai-film-festival-3) |
+| 4209 | Dragon Fly | highrise_anglerfish_1103 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@highrise_anglerfish_1103/projects/dragon-fly) |
+| 4210 | Draugr | yupekreativ | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@yupekreativ/projects/draugr) |
+| 4211 | DREAM | modernpotato1500 | 0 | 4.3000 | 0 | Not available | [Source](https://higgsfield.ai/@modernpotato1500/projects/dream) |
+| 4212 | DREAM WITHIN A DREAM | zephyrox | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@zephyrox/projects/dream-within-a-dream) |
+| 4213 | DROPLET | avoidedentertainment2001 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@avoidedentertainment2001/projects/droplet) |
+| 4214 | Drowning in Black | keremarslan | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@keremarslan/projects/drowning-in-black) |
+| 4215 | Drug Chase | tushar_sadioura | 0 | 1.1000 | 0 | Not available | [Source](https://higgsfield.ai/@tushar_sadioura/projects/drug-chase) |
+| 4216 | Echoes of Tomorrow | surrealbanana1443 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@surrealbanana1443/projects/echoes-of-tomorrow) |
+| 4217 | EDEN | eschercookie1504 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@eschercookie1504/projects/eden) |
+| 4218 | Eggo Short film | cultural_dolphin_supreme | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@cultural_dolphin_supreme/projects/eggo-short-film) |
+| 4219 | EL DICTATOR  -  THE TRAINING | yodamasta | 0 | 2.9000 | 0 | Not available | [Source](https://higgsfield.ai/@yodamasta/projects/el-dictator-the-training) |
+| 4220 | el mismo dia | trainingmoon1526 | 0 | 2.1000 | 19 | Nano Banana 2 (100.0000%) | [Source](https://higgsfield.ai/@trainingmoon1526/projects/el-mismo-dia) |
+| 4221 | Elements Vs Pollution | knuthcamel1375 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@knuthcamel1375/projects/ai-film-festival) |
+| 4222 | End of summer | ao_ai_creator | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@ao_ai_creator/projects/ai-film-festival) |
+| 4223 | EXILED HEROES | baraazayd | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@baraazayd/projects/exiled-heroes) |
+| 4224 | Faith | craftsmanraccoon1793 | 0 | 1.2000 | 1 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@craftsmanraccoon1793/projects/c1a9a79c-e4a4-4cca-9592-1a790d23d516) |
+| 4225 | False Pareidolia | gonzalosagredogonzalez | 0 | 2.3000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@gonzalosagredogonzalez/projects/false-pareidolia) |
+| 4226 | far/close | soheilfar | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@soheilfar/projects/far-close) |
+| 4227 | FAST PIZZA - A Slice of Patience | marcusxsotelo | 0 | 6.8000 | 0 | Not available | [Source](https://higgsfield.ai/@marcusxsotelo/projects/fast-pizza-a-slice-of-patience-higgsfield-short) |
+| 4228 | FEI XIANG | rothkotaco1845 | 0 | 2.8000 | 0 | Not available | [Source](https://higgsfield.ai/@rothkotaco1845/projects/fei-xiang) |
+| 4229 | FINAL AI FILM FESTIVAL- EVIL TWIN TAKES OVER MY LIFE | cha_tahora | 0 | 2.9000 | 0 | Not available | [Source](https://higgsfield.ai/@cha_tahora/projects/ai-film-festival-evil-twin-takes-over-my-life) |
+| 4230 | Fine Dine No Reservation \| Sci-Fi Thriller Series \| Coming Soon | nextlevelproduction | 0 | 4.8000 | 0 | Not available | [Source](https://higgsfield.ai/@nextlevelproduction/projects/fine-dine-no-reservation-sci-fi-thriller-series) |
+| 4231 | First Flight | floatingeagle1406 | 0 | 2.2000 | 36 | Higgsfield Soul V2 (100.0000%) | [Source](https://higgsfield.ai/@floatingeagle1406/projects/first-flight) |
+| 4232 | FLIGHT 814 | lowrisecrab1547 | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@lowrisecrab1547/projects/flight-814) |
+| 4233 | Forced Absence | mendelbison1106 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mendelbison1106/projects/forced-absence) |
+| 4234 | Forest of the Damned Dead | sartthar | 0 | 3.1000 | 0 | Not available | [Source](https://higgsfield.ai/@sartthar/projects/forest-of-the-damned-dead) |
+| 4235 | FREEDOM | many1977 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@many1977/projects/freedom) |
+| 4236 | Freshwater Butterflies | bakingplatypus1167 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bakingplatypus1167/projects/freshwater-butterflies) |
+| 4237 | Friends & Fabrics - Hermes Short Film Concept Video | juanamsoria | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@juanamsoria/projects/friends-fabrics-hermes-short-film-concept-video) |
+| 4238 | FROM FOLLOWER TO CEO | futuristicwaffle1420 | 0 | 2.4000 | 49 | Kling 2.6 Video (91.8367%); Kling v3.0 (4.0816%); Seedance 2.0 (2.0408%); Nano Banana Pro (2.0408%) | [Source](https://higgsfield.ai/@futuristicwaffle1420/projects/from-follower-to-ceo) |
+| 4239 | Frozen Nut | poincarecrab1420 | 0 | 2.9000 | 0 | Not available | [Source](https://higgsfield.ai/@poincarecrab1420/projects/frozen-nut) |
+| 4240 | Frozen wonder | euclidtiger1486 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@euclidtiger1486/projects/frozen-wonder) |
+| 4241 | Generative club | nikita_s | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@nikita_s/projects/generative-club) |
+| 4242 | Genesis Protocol | drewbr50 | 0 | 1.4000 | 0 | Not available | [Source](https://higgsfield.ai/@drewbr50/projects/genesis-protocol) |
+| 4243 | Get the Money | deddie | 0 | 0.0631 | 4 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@deddie/projects/get-the-money) |
+| 4244 | Ghoul Justice (Pilot Episode) | obsession_film | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@obsession_film/projects/ghoul-justice-pilot-episode) |
+| 4245 | god slayer | sketching_slug_deluxe | 0 | 3.0000 | 0 | Not available | [Source](https://higgsfield.ai/@sketching_slug_deluxe/projects/god-slayer) |
+| 4246 | GODFATHER JUNIOR | institutionalgoose1423 | 0 | 3.7000 | 0 | Not available | [Source](https://higgsfield.ai/@institutionalgoose1423/projects/godfather-junior) |
+| 4247 | Good Luck! by sin-tong | descartescrab1600 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@descartescrab1600/projects/good-luck) |
+| 4248 | Good Wife, Good Life | jones_soul | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@jones_soul/projects/the-boy-who-cried-wolf) |
+| 4249 | Grand Theft Auto Vice City \| La Pelicula | danihec | 0 | 2.4000 | 160 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@danihec/projects/combat-titans) |
+| 4250 | Gravity | vagpemedia_2026 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@vagpemedia_2026/projects/gravity) |
+| 4251 | Hamster | chouchane | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@chouchane/projects/294630c3-4617-4994-a1de-7612b4ed55a1) |
+| 4252 | Hani Potter school - مدرسة هاني بوتر الثانوية المشتركة بنين | ziadramadan | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@ziadramadan/projects/hani-potter-school) |
+| 4253 | Havoc In Heaven | bathiya | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bathiya/projects/havoc-in-heaven) |
+| 4254 | He had nothing but a kind heart | badanaaz8 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@badanaaz8/projects/he-had-nothing-but-a-kind-heart) |
+| 4255 | HI BABY | smarttoucan1954 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@smarttoucan1954/projects/the-last-call) |
+| 4256 | HIDE 'n SEEK | samarbawa | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@samarbawa/projects/hide-n-seek) |
+| 4257 | Hobby Shop | levitatingchinchilla1286 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@levitatingchinchilla1286/projects/ai-film-festival-2) |
+| 4258 | Hsi scelto | responsive_beetle_1019 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@responsive_beetle_1019/projects/hsi-scelto) |
+| 4259 | Humanism | badproductions | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@badproductions/projects/humanism) |
+| 4260 | Humans Vs Kaaris Final Battle | imaginarystudio | 0 | 26.1000 | 0 | Not available | [Source](https://higgsfield.ai/@imaginarystudio/projects/humans-vs-kaaris-final-battle) |
+| 4261 | I ATE MYSELF | byzantine_narwhal_mini | 0 | 2.4000 | 16 | Seedance 2.5 (87.5000%); Seedream 5.0 Pro (6.2500%); Nano Banana Pro (6.2500%) | [Source](https://higgsfield.ai/@byzantine_narwhal_mini/projects/i-ate-myself) |
+| 4262 | I Dont Know When I Changed | suraj_kabir | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@suraj_kabir/projects/i-dont-know-when-i-changed) |
+| 4263 | Il giardino | teleportinghawk1395 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@teleportinghawk1395/projects/il-giardino) |
+| 4264 | Illegal loggers | modernistplatypus1808 | 0 | 4.8000 | 225 | Seedance 2.5 (98.6667%); Seedream 4.5 (0.8889%); Seedream 5.0 Lite (0.4444%) | [Source](https://higgsfield.ai/@modernistplatypus1808/projects/illegal-loggers) |
+| 4265 | IN A BLINK OF AN EYE | flowingcrab_nitro | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@flowingcrab_nitro/projects/in-a-blink-of-an-eye) |
+| 4266 | Inkitcomics LLC wooley booger | pulsingchinchilla_main | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@pulsingchinchilla_main/projects/inkitcomics-llc-wooley-booger) |
+| 4267 | Insecure | cinematiclightning1317 | 0 | 0.4184 | 0 | Not available | [Source](https://higgsfield.ai/@cinematiclightning1317/projects/insecure) |
+| 4268 | Interpretation | xiaoya | 0 | 2.2000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@xiaoya/projects/interpretation) |
+| 4269 | INTRO DENER B2B FININN | djdenerdj | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@djdenerdj/projects/intro-dener-b2b-fininn) |
+| 4270 | Introducing RIYA | pointillisttoaster1185 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@pointillisttoaster1185/projects/introducing-riya) |
+| 4271 | Jesus, I Hate Being Poor | noetherfalcon1321 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@noetherfalcon1321/projects/jesus-i-hate-being-poor) |
+| 4272 | JIGYASA | vaidik | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@vaidik/projects/jigyasa) |
+| 4273 | Jumper me Bumper | wakingpretzel1518 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@wakingpretzel1518/projects/jumper-me-bumper) |
+| 4274 | KAALGARH | von_neumanngoose1048 | 0 | 0.0482 | 0 | Not available | [Source](https://higgsfield.ai/@von_neumanngoose1048/projects/ai-film-festival-2) |
+| 4275 | KALAPATHY – THE RISE OF CHOLA | absztor | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@absztor/projects/kalapathy-the-rise-of-chola) |
+| 4276 | Kaleodaz | caleodas | 0 | 2.1000 | 4 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@caleodas/projects/kaleodaz) |
+| 4277 | Keeper | jessaran | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@jessaran/projects/keeper) |
+| 4278 | KHELANA | meditatinghedgehog1388 | 0 | 5.2000 | 0 | Not available | [Source](https://higgsfield.ai/@meditatinghedgehog1388/projects/khelana) |
+| 4279 | Khoon Phir Khoon he | faizan_arshad | 0 | 2.7000 | 0 | Not available | [Source](https://higgsfield.ai/@faizan_arshad/projects/khoon-phir-khoon-he) |
+| 4280 | Kidogo \| The Little Show | russellavre | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@russellavre/projects/kidogo-the-little-show) |
+| 4281 | Kindred: The Last Brothers | galileofox1717 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@galileofox1717/projects/kindred-the-last-brothers) |
+| 4282 | Krishna’s Bells Went Silent… Something Was Holding Them | erdosrhino1742 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@erdosrhino1742/projects/krishna-s-bells-went-silent-something-was-holding-them) |
+| 4283 | La Corona Manchada | vuduagencia | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@vuduagencia/projects/el-caballero-sin-reino) |
+| 4284 | La Dénucléarisation de la corée du nord | maximalistcloud1626 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@maximalistcloud1626/projects/la-d-nucl-arisation-de-la-cor-e-du-nord) |
+| 4285 | La sangre recuerda | baroqueorange1643 | 0 | 2.1000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@baroqueorange1643/projects/la-sangre-recuerda) |
+| 4286 | LA SIRENA | goridreads | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@goridreads/projects/la-sirena) |
+| 4287 | La última partida | quantumswan1148 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@quantumswan1148/projects/la-ltima-partida) |
+| 4288 | Lasagna Sacrifice | ticket_66 | 0 | 1.2000 | 0 | Not available | [Source](https://higgsfield.ai/@ticket_66/projects/) |
+| 4289 | LAST FARE  -  A Short Film | directedbymohcine | 0 | 1.9000 | 27 | Seedance 2.5 (81.4815%); GPT Image (18.5185%) | [Source](https://higgsfield.ai/@directedbymohcine/projects/last-fare-a-short-film) |
+| 4290 | Last Night Protocol | babbagebuffalo1690 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@babbagebuffalo1690/projects/last-night-protocol) |
+| 4291 | LATER | ahmedmagdyes | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@ahmedmagdyes/projects/later) |
+| 4292 | le cri | chouchane | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@chouchane/projects/le-cri) |
+| 4293 | LES TROIS PAGES - by DjeDje | djedjefilm | 0 | 4.5000 | 0 | Not available | [Source](https://higgsfield.ai/@djedjefilm/projects/les-trois-pages-by-djedje) |
+| 4294 | LET US ROCK THE WORLD – Epic Hard Rock Visual Experience ( | lowriseplatypus1744 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@lowriseplatypus1744/projects/let-us-rock-the-world-epic-hard-rock-visual-experience) |
+| 4295 | Linglan  -  Young Warrior of Kunlun | zoomingbee1372 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@zoomingbee1372/projects/linglan-young-warrior-of-kunlun) |
+| 4296 | Locked In | brycenicholson | 0 | 4.6000 | 16 | Nano Banana Pro (100.0000%) | [Source](https://higgsfield.ai/@brycenicholson/projects/locked-in) |
+| 4297 | Loud silence | lichtenstein_tea_mega | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@lichtenstein_tea_mega/projects/loud-silence) |
+| 4298 | LOVE BEYOND PLANETS | lovebeyondplanet | 0 | 2.5000 | 5 | Soul Cinematic (60.0000%); Cinema Studio 4.0 (40.0000%) | [Source](https://higgsfield.ai/@lovebeyondplanet/projects/144bca40-a174-4340-a906-772930c16c69) |
+| 4299 | Love.exe | ojak | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@ojak/projects/love-exe) |
+| 4300 | LUCIFER | ilregista82 | 0 | 2.8000 | 75 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@ilregista82/projects/lucifer) |
+| 4301 | L’ÉVEIL  -   Awakening | holographicwater1160 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@holographicwater1160/projects/l-veil-awakening) |
+| 4302 | MADDAH | knuth_butterfly_1001 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@knuth_butterfly_1001/projects/maddah) |
+| 4303 | MADNESS | hafssa_epicstudio | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@hafssa_epicstudio/projects/madness) |
+| 4304 | MAHABHARAT \| KARNA & DURYODHANA  -  Brotherhood Beyond Destiny | brahma_code_0 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@brahma_code_0/projects/ai-film-festival-mahabharat-karna-duryodhana-brotherhood-bey) |
+| 4305 | Make Humans Free Again - The Design of Private Property | gonmelo | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@gonmelo/projects/make-humans-free-again) |
+| 4306 | Make some Noise | prabupb | 0 | 2.6000 | 25 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@prabupb/projects/make-some-noise) |
+| 4307 | Makeda: The Soul of Sheba | makedasoul1 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@makedasoul1/projects/makeda-the-soul-of-sheba) |
+| 4308 | MAN ON THAMES | dusty | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@dusty/projects/man-on-thames) |
+| 4309 | Mansion Of The Dragon | greemor1 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@greemor1/projects/mansion-of-the-dragon) |
+| 4310 | Marilyn | vibingdrone1443 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@vibingdrone1443/projects/marilyn) |
+| 4311 | Memory Healing | estaswood | 0 | 4.7000 | 0 | Not available | [Source](https://higgsfield.ai/@estaswood/projects/memory-healing) |
+| 4312 | MERIDIAN : THE LAST RUN \| AI Sci-Fi Short Film | byzantinejellyfish1356 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@byzantinejellyfish1356/projects/meridian-the-last-run-ai-sci-fi-short-film) |
+| 4313 | MESSAGE FROM FUTURE | designingwalrus_fam | 0 | 3.2000 | 0 | Not available | [Source](https://higgsfield.ai/@designingwalrus_fam/projects/message-from-future) |
+| 4314 | Mila Vex: The Shadow King Returns | pythagorasdolphin1534 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@pythagorasdolphin1534/projects/mila-vex-the-shadow-king-returns) |
+| 4315 | MIRAGE | asqarai | 0 | 2.2000 | 12 | Seedream 5.0 Lite (50.0000%); Seedance 2.0 Unlimited (33.3333%); Nano Banana 2 (8.3333%); Kling O1 Image (8.3333%) | [Source](https://higgsfield.ai/@asqarai/projects/mirage) |
+| 4316 | Miss Herbo | suprematistcoffee1546 | 0 | 3.0000 | 0 | Not available | [Source](https://higgsfield.ai/@suprematistcoffee1546/projects/miss-herbo) |
+| 4317 | Mithra 7 | rajunsign | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@rajunsign/projects/mithra7) |
+| 4318 | Moment | peepaltree0100 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@peepaltree0100/projects/moment) |
+| 4319 | MORRISON | pantasium | 0 | 2.9000 | 87 | Seedance 2.5 (67.8161%); Nano Banana Pro (20.6897%); Seedream 5.0 Lite (11.4943%) | [Source](https://higgsfield.ai/@pantasium/projects/morrison) |
+| 4320 | Moses movie | pascalfalcon1422 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@pascalfalcon1422/projects/moses-movie) |
+| 4321 | MOUL JELLABA | galileo_dragonfly_1010 | 0 | 1.6000 | 0 | Not available | [Source](https://higgsfield.ai/@galileo_dragonfly_1010/projects/moul-jellaba) |
+| 4322 | Museum of Forgotten Things | racingruler_bot | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@racingruler_bot/projects/museum-of-forgotten-things) |
+| 4323 | My Country | jodzi | 0 | 3.5000 | 0 | Not available | [Source](https://higgsfield.ai/@jodzi/projects/my-country) |
+| 4324 | Nameless for AI Film Festival | eugeenyjoy | 0 | 2.7000 | 79 | Seedance 2.5 (59.4937%); Seedream 4.5 (29.1139%); Soul Cinematic (11.3924%) | [Source](https://higgsfield.ai/@eugeenyjoy/projects/nameless-for-ai-film-festival) |
+| 4325 | NANA: BLADE OF VENGEANCE | shinjimimura | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@shinjimimura/projects/nana-blade-of-vengeance) |
+| 4326 | Narasimha vs Hiranyakashipu \| AI Film Festival | shifting_eraser_the_bold | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@shifting_eraser_the_bold/projects/narasimha-vs-hiranyakashipu-ai-film-festival) |
+| 4327 | Near Miss | yushinedit | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@yushinedit/projects/near-miss) |
+| 4328 | Neon Bouty intro | razorlight | 0 | 2.1000 | 2 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@razorlight/projects/ai-film-festival-2) |
+| 4329 | Nepal 2026 | rajunsign | 0 | 4.4000 | 0 | Not available | [Source](https://higgsfield.ai/@rajunsign/projects/nepal-2026) |
+| 4330 | Never_Bow_New | deconstructivistferret1599 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@deconstructivistferret1599/projects/never-bow-new) |
+| 4331 | NEWORDS | thevolce | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@thevolce/projects/newords) |
+| 4332 | NEXORA  -  The Fire Legion | hokusaitable1829 | 0 | 5.4000 | 0 | Not available | [Source](https://higgsfield.ai/@hokusaitable1829/projects/nexora-the-fire-legion) |
+| 4333 | NIGHT RIOTZ | softblueberry1557 | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@softblueberry1557/projects/night-riotz) |
+| 4334 | NO EXCUSES | aliussef123 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@aliussef123/projects/no-excuses) |
+| 4335 | No Powers | flowingtaco1216 | 0 | 3.1000 | 0 | Not available | [Source](https://higgsfield.ai/@flowingtaco1216/projects/no-powers) |
+| 4336 | NO Saint | joseph_zoofa | 0 | 1.7000 | 0 | Not available | [Source](https://higgsfield.ai/@joseph_zoofa/projects/ai-film-festival-no-saint) |
+| 4337 | NOT YET | designingtomato1121 | 0 | 2.8000 | 0 | Not available | [Source](https://higgsfield.ai/@designingtomato1121/projects/ai-film-festival-not-yet) |
+| 4338 | Nuit des temps | mysticalwaffle_guru | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@mysticalwaffle_guru/projects/nuit-des-temps) |
+| 4339 | NYMORA 2 | perceptronpanda_real | 0 | 14.6000 | 0 | Not available | [Source](https://higgsfield.ai/@perceptronpanda_real/projects/nymora-2) |
+| 4340 | O ÚLTIMO PIXEL | skyscraperelk1564 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@skyscraperelk1564/projects/o-ltimo-pixel) |
+| 4341 | Official Teaser Trailer - Scharfenberg | alec_barr_productions | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@alec_barr_productions/projects/official-teaser-trailer-scharfenberg) |
+| 4342 | OFFLINE : The Last MonoLogue | dijkstracrow1591 | 0 | 3.1000 | 0 | Not available | [Source](https://higgsfield.ai/@dijkstracrow1591/projects/offline-the-last-monologue) |
+| 4343 | ON THE BEACH: DON’T LOOK BACK | yushinedit | 0 | 3.7000 | 0 | Not available | [Source](https://higgsfield.ai/@yushinedit/projects/on-the-beach-don-t-look-back) |
+| 4344 | Once Upon A Time | riemanncamel1425 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@riemanncamel1425/projects/once-upon-a-time) |
+| 4345 | ONE DRAG | jimagefilm | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@jimagefilm/projects/one-drag-film) |
+| 4346 | ONE LIGHT | blueprinttiger1668 | 0 | 0.6382 | 0 | Not available | [Source](https://higgsfield.ai/@blueprinttiger1668/projects/one-light) |
+| 4347 | One Minute Before Death | dreamvoxfilms | 0 | 2.2000 | 42 | Higgsfield Soul V2 (97.6190%); Soul Cinematic (2.3810%) | [Source](https://higgsfield.ai/@dreamvoxfilms/projects/one-minute-before-death) |
+| 4348 | One Mission. Many Lives. \| Military Rescue Operation | smartwombat1688 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@smartwombat1688/projects/one-mission-many-lives-military-rescue-operation) |
+| 4349 | Opps i cloned myself | kayokane | 0 | 2.6000 | 40 | Seedance 2.5 (55.0000%); GPT Image 2 Unlimited (45.0000%) | [Source](https://higgsfield.ai/@kayokane/projects/opps-i-cloned-myself) |
+| 4350 | OUTBACK HORIZON | leoclark | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@leoclark/projects/outback-horizon) |
+| 4351 | PANAMA PARADISE | juancarlosbordanea | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@juancarlosbordanea/projects/panama-paradise) |
+| 4352 | PANAMA PARADISE | juancarlosbordanea | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@juancarlosbordanea/projects/panama-paradise-film) |
+| 4353 | PAPER FLIGHT - JAPAN | haruka_apps | 0 | 1.3000 | 1 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@haruka_apps/projects/paper-flight) |
+| 4354 | PAYNED | baroquesnow_ai | 0 | 3.6000 | 1 | Seedream 5.0 Lite (100.0000%) | [Source](https://higgsfield.ai/@baroquesnow_ai/projects/payned) |
+| 4355 | PENAL COLONY OF SPECIAL REGIME | koperatork | 0 | 3.4000 | 43 | Seedance 2.5 (97.6744%); Nano Banana Pro (2.3256%) | [Source](https://higgsfield.ai/@koperatork/projects/penal-colony-of-special-regime) |
+| 4356 | Piece Around | majid13 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@majid13/projects/piece-around) |
+| 4357 | PING: Destination Unreachable | archimedeselk1303 | 0 | 2.4000 | 17 | Seedance 2.5 (94.1176%); Soul Cinematic (5.8824%) | [Source](https://higgsfield.ai/@archimedeselk1303/projects/ping-destination-unreachable) |
+| 4358 | Polo The Alien | jahvontetheking | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@jahvontetheking/projects/polo-the-alien) |
+| 4359 | Pothe Holo Dekha (Meet On The Roads) | shariartawsif | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@shariartawsif/projects/pothe-holo-dekha-meet-on-the-roads) |
+| 4360 | Power of money | civicbison1586 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@civicbison1586/projects/power-of-money) |
+| 4361 | prison | highrisebutterfly1418 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@highrisebutterfly1418/projects/prison) |
+| 4362 | Project Freedom - Episode 1 | projectjream | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@projectjream/projects/project-freedom-episode-1) |
+| 4363 | Prologue: Miran | nemmysis | 0 | 2.4000 | 55 | Seedance 2.5 (94.5455%); Nano Banana Pro (5.4545%) | [Source](https://higgsfield.ai/@nemmysis/projects/prologue-miran) |
+| 4364 | Protocolo 404 | dudumunhoz | 0 | 6.1000 | 0 | Not available | [Source](https://higgsfield.ai/@dudumunhoz/projects/404-protocol) |
+| 4365 | Qorshau | leonardo_pancake_chad | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@leonardo_pancake_chad/projects/qorshau) |
+| 4366 | RAICHUR THINGS | raichurmoviemakers | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@raichurmoviemakers/projects/raichur-things) |
+| 4367 | RAKSHAK | sarthak01 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@sarthak01/projects/rakshak) |
+| 4368 | RATION | ronrevog | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@ronrevog/projects/ration) |
+| 4369 | Red Death | generatingruby1505 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@generatingruby1505/projects/red-death) |
+| 4370 | ReincAIrnated | streamingbutter1292 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@streamingbutter1292/projects/reincairnated) |
+| 4371 | Ring Born | alzeerofficial | 0 | 3.3000 | 9 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@alzeerofficial/projects/ring-born) |
+| 4372 | ROACHES AI Film Festival 3 | demfranchizeboyz | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@demfranchizeboyz/projects/roaches-ai-film-festival-3) |
+| 4373 | Rock The Line ! | mrhoures | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mrhoures/projects/ai-film-festival-2) |
+| 4374 | Rogue Angel & Innocent Demon : Korean Version | romanticlightning_mega | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@romanticlightning_mega/projects/rogue-angel-innocent-demon-korean-version) |
+| 4375 | Roses Night | feynmandeer1684 | 0 | 1.1000 | 0 | Not available | [Source](https://higgsfield.ai/@feynmandeer1684/projects/roses-knight) |
+| 4376 | Rouge Drone | glitchplanet1284 | 0 | 2.1000 | 3 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@glitchplanet1284/projects/rouge-drone) |
+| 4377 | Rufus: The Compton Cowboy: Episode 5 (Sneak Peek) | larryu | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@larryu/projects/rufus-the-compton-cowboy-episode-5-sneak-peek) |
+| 4378 | Ruslan Fattokhov | ruxeffect | 0 | 5.0000 | 2 | Nano Banana Pro (100.0000%) | [Source](https://higgsfield.ai/@ruxeffect/projects/ruslan-fattokhov) |
+| 4379 | SACRIFICE \| An AI-Generated Shang Dynasty Epic | tudortoucan1740 | 0 | 11.4000 | 0 | Not available | [Source](https://higgsfield.ai/@tudortoucan1740/projects/sacrifice-an-ai-generated-shang-dynasty-epic) |
+| 4380 | Safia - صفية | ahmedyahia1991 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@ahmedyahia1991/projects/safia) |
+| 4381 | Save The Bees | abstractgarlic1562 | 0 | 4.0000 | 109 | Seedream 4.5 (65.1376%); Seedance 2.0 Unlimited (28.4404%); Seedream 5.0 Lite (6.4220%) | [Source](https://higgsfield.ai/@abstractgarlic1562/projects/save-the-bees) |
+| 4382 | SAVIOUR - THE SON | sachin_samuel | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@sachin_samuel/projects/saviour-the-son) |
+| 4383 | Scary minutes | hospitalitybutterfly1857 | 0 | 3.1000 | 0 | Not available | [Source](https://higgsfield.ai/@hospitalitybutterfly1857/projects/scary-minutes) |
+| 4384 | Seedance 2.5 is Insane, I Turned an AI Anthem Into a Robot Music Video | theuniversebeyond | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@theuniversebeyond/projects/seedance-2-5-is-insane-i-turned-an-ai-anthem-into-a-robot-mu) |
+| 4385 | SELF TALK - SCROLLIN' - HIGGSFIELD GLOBAL FILM FESTIVAL SUBMISSION - WENDELL 'UTK' NELSON - FGM | wendellutknelson | 0 | 7.8000 | 0 | Not available | [Source](https://higgsfield.ai/@wendellutknelson/projects/self-talk-scrollin-higgsfield-global-film-festival-submissio) |
+| 4386 | SEVERED DENIM | techsherlock | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@techsherlock/projects/severed-denim) |
+| 4387 | shadow of the Pyramid | husseinsamer22 | 0 | 6.1000 | 0 | Not available | [Source](https://higgsfield.ai/@husseinsamer22/projects/shadow-of-the-pyramid) |
+| 4388 | SHADOW ON THE MOON | tanvir4hmed | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@tanvir4hmed/projects/shadow-on-the-moon) |
+| 4389 | SHADOW  -  The Shark Who Nobody Understood | ocean_jules | 0 | 4.1000 | 40 | Seedream 5.0 Pro (70.0000%); Nano Banana Pro (17.5000%); Cinema Studio 4.0 (12.5000%) | [Source](https://higgsfield.ai/@ocean_jules/projects/shadow-the-shark-who-nobody-understood) |
+| 4390 | shark | shark1990 | 0 | 2.2000 | 1 | Higgsfield Genjutsu - Motion Transfer (100.0000%) | [Source](https://higgsfield.ai/@shark1990/projects/shark) |
+| 4391 | Sherlock y Watson en El retrato del día siguiente | evincor | 0 | 3.2000 | 0 | Not available | [Source](https://higgsfield.ai/@evincor/projects/sherlock-y-watson-en-el-retrato-del-d-a-siguiente) |
+| 4392 | Shocker Echoes In The Static 2027 | 2slickstudios | 0 | 2.4000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@2slickstudios/projects/shocker-echoes-in-the-static-2027) |
+| 4393 | SHOW | yoons_film | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@yoons_film/projects/) |
+| 4394 | SIARI TEWEY II - LA RETÍCULA DEL FUTURO | fermatbeetle1545 | 0 | 1.9000 | 50 | Seedance 2.5 (76.0000%); Nano Banana (24.0000%) | [Source](https://higgsfield.ai/@fermatbeetle1545/projects/siari-tewey-ii-la-ret-cula-del-futuro) |
+| 4395 | Silent Isle \| Crelix AI \| Higgsfield Global Film Festival | folkcucumber1441 | 0 | 3.8000 | 0 | Not available | [Source](https://higgsfield.ai/@folkcucumber1441/projects/silent-isle-crelix-ai-higgsfield-global-film-festival) |
+| 4396 | Silent Rivalry | dadaiststrawberry1624 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@dadaiststrawberry1624/projects/silent-rivalry) |
+| 4397 | SIMULATION  -  Short film | abstractthunder1346 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@abstractthunder1346/projects/simulation-short-film) |
+| 4398 | Skanderbeg - Eagle of The Mountains | lynoa_studio | 0 | 6.6000 | 0 | Not available | [Source](https://higgsfield.ai/@lynoa_studio/projects/ai-film-festival) |
+| 4399 | SLLS-Screw Loose Launch System- Unaccounted For | cosmicpebble1519 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@cosmicpebble1519/projects/slls-screw-loose-launch-system-unaccounted-for) |
+| 4400 | SOLD | vslavaa | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@vslavaa/projects/sold) |
+| 4401 | Someone Sent You | sporkmaster269 | 0 | 6.7000 | 0 | Not available | [Source](https://higgsfield.ai/@sporkmaster269/projects/someone-sent-you) |
+| 4402 | SPLIT LINE | pmh | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@pmh/projects/split-line) |
+| 4403 | STAR PAJAMAS | learningdragonfly1410 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@learningdragonfly1410/projects/star-pajamas) |
+| 4404 | STAY | bob16 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bob16/projects/stay) |
+| 4405 | Stellar Death | hanyudam | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@hanyudam/projects/stellar-death) |
+| 4406 | Still receiving | modernistmantis_9000 | 0 | 1.4000 | 61 | Kling (98.3607%); Soul Cinematic (1.6393%) | [Source](https://higgsfield.ai/@modernistmantis_9000/projects/still-receiving) |
+| 4407 | Stranger | baroquecrystal1534 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@baroquecrystal1534/projects/stranger) |
+| 4408 | SUGAR RUSH RIOT ARMY | wingslisa | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@wingslisa/projects/sugar-rush-riot-army) |
+| 4409 | Sunday Gravy | industrialguinea_pig1154 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@industrialguinea_pig1154/projects/sunday-gravy) |
+| 4410 | Super-Teen Menace | b-king_54 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@b-king_54/projects/super-teen-menace) |
+| 4411 | SV Lola Pop  - Pressure | scoverse | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@scoverse/projects/sv-lola-pop-pressure) |
+| 4412 | Sweets | dadaiststrawberry1624 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@dadaiststrawberry1624/projects/sweets) |
+| 4413 | Synara | synthwavebroccoli1362 | 0 | 1.4000 | 0 | Not available | [Source](https://higgsfield.ai/@synthwavebroccoli1362/projects/synara) |
+| 4414 | TALISMAN | minimalistapple1625 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@minimalistapple1625/projects/ai-film-festival-2) |
+| 4415 | TAMIM AL-DARI | relaxingcupcake1436 | 0 | 3.1000 | 0 | Not available | [Source](https://higgsfield.ai/@relaxingcupcake1436/projects/tamim-al-dari) |
+| 4416 | Tartaria | maraguild | 0 | 4.2000 | 0 | Not available | [Source](https://higgsfield.ai/@maraguild/projects/ai-film-festival) |
+| 4417 | The Advisor | poincarecrab1420 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@poincarecrab1420/projects/the-advisor-ai-film-festival-2) |
+| 4418 | The Answer | edhita | 0 | 3.6000 | 75 | Seedance 2.0 Mini Unlimited (93.3333%); Enhanced Seedance 2.0 Fast Unlimited (6.6667%) | [Source](https://higgsfield.ai/@edhita/projects/the-answer) |
+| 4419 | The Architect demo | sleepingflamingo1295 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@sleepingflamingo1295/projects/the-architect-demo) |
+| 4420 | The ASSEMBLER | ahmed_editor | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@ahmed_editor/projects/the-assembler) |
+| 4421 | The Bad Boys - Bringing AI into Mind | johnsblueberry1811 | 0 | 2.1000 | 2 | Seedance 2.5 (50.0000%); Soul Cinematic (50.0000%) | [Source](https://higgsfield.ai/@johnsblueberry1811/projects/ai-film-festival-6) |
+| 4422 | THE BLOODLINE | playfulrainbow_cult | 0 | 2.7000 | 0 | Not available | [Source](https://higgsfield.ai/@playfulrainbow_cult/projects/the-bloodline) |
+| 4423 | THE BOSE EFFECT | sleepingparrot_500 | 0 | 1.1000 | 0 | Not available | [Source](https://higgsfield.ai/@sleepingparrot_500/projects/the-bose-effect) |
+| 4424 | The Boy and the Nile Crocodile | mokoto_praia | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mokoto_praia/projects/the-boy-and-the-nile-crocodile) |
+| 4425 | The broken God | galileo_axolotl_prime | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@galileo_axolotl_prime/projects/the-broken-god) |
+| 4426 | The Burden Of A Mother | akaartgenerator | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@akaartgenerator/projects/ai-film-festival-the-burden-of-a-mother) |
+| 4427 | THE CAVE OF ECHOES | digitalpizza1573 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@digitalpizza1573/projects/the-cave-of-echoes) |
+| 4428 | The Cleopatra Chronicles | beautyai | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@beautyai/projects/the-cleopatra-chronicles) |
+| 4429 | THE COLOR SMUGGLER | hokusairobot1778 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@hokusairobot1778/projects/the-color-smuggler) |
+| 4430 | The Colour "रंग" | neoclassical_hamster_supreme | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@neoclassical_hamster_supreme/projects/the-colour) |
+| 4431 | THE COMPASS OF THE ATLAS: THE CURSED JUNGLE | installationmushroom1100 | 0 | 3.9000 | 0 | Not available | [Source](https://higgsfield.ai/@installationmushroom1100/projects/the-compass-of-the-atlas-the-cursed-jungle) |
+| 4432 | The court of crows | glowingice1478 | 0 | 2.2000 | 5 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@glowingice1478/projects/the-court-of-crows) |
+| 4433 | The Dark night | gothic_pebble_1020 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@gothic_pebble_1020/projects/the-dark-night) |
+| 4434 | THE DAWN BEARER | adelead | 0 | 2.1000 | 3 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@adelead/projects/the-dawn-bearer) |
+| 4435 | The Death God | venkimuthamala | 0 | 2.7000 | 48 | Seedance 2.5 (58.3333%); Seedream 4.5 (41.6667%) | [Source](https://higgsfield.ai/@venkimuthamala/projects/grandpa-vs-crow) |
+| 4436 | THE DREAM | studioesoonton13 | 0 | 3.6000 | 152 | Seedance 2.5 (84.8684%); Seedream 5.0 Lite (10.5263%); Higgsfield Soul V2 (4.6053%) | [Source](https://higgsfield.ai/@studioesoonton13/projects/the-dream) |
+| 4437 | The Duvet - Trailer | yucel | 0 | 2.2000 | 19 | Cinema Studio 4.0 (94.7368%); Nano Banana Pro (5.2632%) | [Source](https://higgsfield.ai/@yucel/projects/the-duvet-trailer) |
+| 4438 | The Empty Quarter: The Lost Trace | drawingtea1314 | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@drawingtea1314/projects/the-empty-quarter-the-lost-trace) |
+| 4439 | The ferment of life | antoniogodoy | 0 | 2.3000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@antoniogodoy/projects/the-ferment-of-life) |
+| 4440 | THE FESTIVAL OF DOGS | softonion1411 | 0 | 2.9000 | 133 | Nano Banana 2 (57.1429%); Kling v3.0 (42.8571%) | [Source](https://higgsfield.ai/@softonion1411/projects/the-festival-of-dogs) |
+| 4441 | The Final Challenge | jumpingbook1449 | 0 | 4.4000 | 38 | Seedance 2.0 Unlimited (100.0000%) | [Source](https://higgsfield.ai/@jumpingbook1449/projects/the-final-challenge) |
+| 4442 | The First and Last Dance | nahron07 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@nahron07/projects/the-first-and-last-dance) |
+| 4443 | THE FIRST LIGHT | jahvontetheking | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@jahvontetheking/projects/the-first-light) |
+| 4444 | The First Notification | el_grecopie1815 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@el_grecopie1815/projects/the-first-notification) |
+| 4445 | THE FOURTH SHIFT  -  OFFICIAL FILM | mahmoud_okeel | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mahmoud_okeel/projects/the-fourth-shift-official-film) |
+| 4446 | THE GIFT OF THE SEA | syam_sutra | 0 | 4.8000 | 0 | Not available | [Source](https://higgsfield.ai/@syam_sutra/projects/the-gift-of-the-sea) |
+| 4447 | The Golden Pole | buildinggrape1397 | 0 | 4.5000 | 0 | Not available | [Source](https://higgsfield.ai/@buildinggrape1397/projects/the-golden-pole-1) |
+| 4448 | THE GREATEST THEFT IN HISTORY? | mosta1a | 0 | 3.9000 | 0 | Not available | [Source](https://higgsfield.ai/@mosta1a/projects/the-greatest-theft-in-history) |
+| 4449 | The House On Hollow Hill  -  Part One | joelherbert | 0 | 6.9000 | 0 | Not available | [Source](https://higgsfield.ai/@joelherbert/projects/the-house-on-hollow-hill-part-one) |
+| 4450 | The ill-mannered girl | mysticalpelican1148 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mysticalpelican1148/projects/the-ill-mannered-girl) |
+| 4451 | The Last Bounty | parametriccaterpillar1055 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@parametriccaterpillar1055/projects/the-last-bounty) |
+| 4452 | The Last Coin | kerala_animator11 | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@kerala_animator11/projects/the-last-coin) |
+| 4453 | The Last Conversation | pythagorasant1451 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@pythagorasant1451/projects/ai-film-festival) |
+| 4454 | THE LAST DAWN | dung_ai_artist | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@dung_ai_artist/projects/the-last-dawn) |
+| 4455 | THE LAST ECHO | gothic_shrimp_1110 | 0 | 0.8312 | 0 | Not available | [Source](https://higgsfield.ai/@gothic_shrimp_1110/projects/the-last-echo) |
+| 4456 | THE LAST FRAME | discoveringotter1394 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@discoveringotter1394/projects/the-last-frame) |
+| 4457 | The last good night | bourgeoisbroccoli1802 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bourgeoisbroccoli1802/projects/the-last-good-night) |
+| 4458 | The Last Harlem Hellfighter | larryu | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@larryu/projects/the-last-harlem-hellfighter-sneak-peek) |
+| 4459 | The Last Human | wahwahstudio | 0 | 2.1000 | 4 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@wahwahstudio/projects/the-last-human) |
+| 4460 | The last Island | ember_faithe | 0 | 2.7000 | 20 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@ember_faithe/projects/the-last-island) |
+| 4461 | The Last Job | robinrafan | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@robinrafan/projects/the-last-job) |
+| 4462 | THE LAST MEMORY | atompunkpizza1338 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@atompunkpizza1338/projects/the-last-memory) |
+| 4463 | THE LAST MEMORY | viralfawkes | 0 | 3.2000 | 0 | Not available | [Source](https://higgsfield.ai/@viralfawkes/projects/42fe246c-1938-488c-a8f5-bf70e1d8ec02) |
+| 4464 | THE LAST MISSION | bobbyaifilms | 0 | 0.0004 | 0 | Not available | [Source](https://higgsfield.ai/@bobbyaifilms/projects/the-last-mission) |
+| 4465 | The Last Night of Varelia | brewing_eraser_gamma | 0 | 2.2000 | 1 | Higgsfield Genjutsu - Motion Transfer (100.0000%) | [Source](https://higgsfield.ai/@brewing_eraser_gamma/projects/the-last-night-of-varelia) |
+| 4466 | the last rebelion | finny-tech | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@finny-tech/projects/the-last-rebelion) |
+| 4467 | The Last Resorts | reelsuccess | 0 | 2.6000 | 111 | Nano Banana Pro (60.3604%); Seedance 2.5 (38.7387%); Kling v3.0 (0.9009%) | [Source](https://higgsfield.ai/@reelsuccess/projects/the-last-resorts) |
+| 4468 | The Last Ring | institutionaleagle1524 | 0 | 2.7000 | 0 | Not available | [Source](https://higgsfield.ai/@institutionaleagle1524/projects/) |
+| 4469 | The Last Seat | giammyzee | 0 | 2.1000 | 9 | Higgsfield Soul V2 (66.6667%); Seedance 2.5 (22.2222%); Soul Cinematic (11.1111%) | [Source](https://higgsfield.ai/@giammyzee/projects/the-last-seat) |
+| 4470 | THE LAST SIGNAL | institutionalnarwhal1882 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@institutionalnarwhal1882/projects/the-last-signal) |
+| 4471 | The Last Spin | throbbingpie1090 | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@throbbingpie1090/projects/the-last-spin) |
+| 4472 | The Ledger | forparis | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@forparis/projects/the-ledger) |
+| 4473 | The Life Between AI Movie | wakingtomato_cult | 0 | 2.9000 | 0 | Not available | [Source](https://higgsfield.ai/@wakingtomato_cult/projects/the-life-between-ai-movie) |
+| 4474 | THE LINE BETWEEN LIFE AND DEATH | qya-yunke | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@qya-yunke/projects/the-line-between-life-and-death) |
+| 4475 | The Little Interpreter | osamaahmed505 | 0 | 2.6000 | 98 | Seedance 2.5 (56.1224%); Seedream 4.5 (43.8776%) | [Source](https://higgsfield.ai/@osamaahmed505/projects/the-little-interpreter) |
+| 4476 | The Long Wait | graffitiplanet1632 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@graffitiplanet1632/projects/x) |
+| 4477 | the man who never looked up | buildingcupcake1425 | 0 | 2.5000 | 35 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@buildingcupcake1425/projects/the-man-who-never-loocked-up) |
+| 4478 | The Mary Jane Brothers | meltedmindslab | 0 | 2.4000 | 6 | Nano Banana Pro (100.0000%) | [Source](https://higgsfield.ai/@meltedmindslab/projects/the-mary-jane-brothers) |
+| 4479 | The Master and the Student | 132 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@132/projects/the-master-and-the-student) |
+| 4480 | The Maze | levitatingchinchilla1304 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@levitatingchinchilla1304/projects/the-maze) |
+| 4481 | The Memory Thief | calderpepper1770 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@calderpepper1770/projects/the-memory-thief) |
+| 4482 | The Monitored | yezak | 0 | 0.0454 | 22 | Seedance 2.5 (95.4545%); Seedream 5.0 Lite (4.5455%) | [Source](https://higgsfield.ai/@yezak/projects/) |
+| 4483 | The night fare.. | ramanujan_dolphin_xxl | 0 | 6.8000 | 0 | Not available | [Source](https://higgsfield.ai/@ramanujan_dolphin_xxl/projects/the-night-fare) |
+| 4484 | The Orchestra of Empty Rooms | chia-studios | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@chia-studios/projects/the-orchestra-of-empty-rooms) |
+| 4485 | the power | kleedonut1685 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@kleedonut1685/projects/the-power) |
+| 4486 | The Power of the Horses | thatsonofman | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@thatsonofman/projects/the-power-of-the-horses) |
+| 4487 | The Ripple | conceptualemerald1398 | 0 | 2.8000 | 0 | Not available | [Source](https://higgsfield.ai/@conceptualemerald1398/projects/a698e86f-7e64-4459-b114-b066967c1313) |
+| 4488 | The SCRIBE | pooyavision1984 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@pooyavision1984/projects/the-scribe) |
+| 4489 | The Seventh Seal | jammingpencil1366 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@jammingpencil1366/projects/the-seventh-seal) |
+| 4490 | The Sinner | lvatoresa | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@lvatoresa/projects/the-sinner) |
+| 4491 | The Song We Left Behind | artekhaii_design | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@artekhaii_design/projects/the-song-we-left-behind) |
+| 4492 | THE SOUND OF TOMORROW | softmoon1502 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@softmoon1502/projects/the-sound-of-tomorrow) |
+| 4493 | The Sterneman Family at the Sterneman Home: Music Video: Find Megamix (from Yo Gabba Gabba!) | lindsegiles8825 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@lindsegiles8825/projects/kids-and-families-from-nanny-911-s-adventures-with-out-of-th) |
+| 4494 | The Sticky Situation | eulerbuffalo1691 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@eulerbuffalo1691/projects/the-sticky-situation) |
+| 4495 | The Story of Jinu & Ina | shannonspider_ultimate | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@shannonspider_ultimate/projects/the-story-of-jinu-ina) |
+| 4496 | The Sunken Line | morphingwhale1396 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@morphingwhale1396/projects/the-sunken-line) |
+| 4497 | The TalkForge Film Festival | craftingruby1444 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@craftingruby1444/projects/the-talkforge-film-festival) |
+| 4498 | The Tribe's Female Werewolf | aphihybridai | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@aphihybridai/projects/ai-film-festival-6) |
+| 4499 | The Udarru Sky Voyager | mystical_chap | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@mystical_chap/projects/the-udarru-sky-voyager) |
+| 4500 | The Unravelling: A Thread Back Home | deepweave-ai-cinema | 0 | 2.8000 | 0 | Not available | [Source](https://higgsfield.ai/@deepweave-ai-cinema/projects/the-unravelling-a-thread-back-home) |
+| 4501 | THE WET PAINT | zoyanywhare | 0 | 3.1000 | 59 | Seedance 2.5 (61.0169%); Soul Cinematic (22.0339%); Cinematic Studio Soul Location (16.9492%) | [Source](https://higgsfield.ai/@zoyanywhare/projects/the-wet-paint) |
+| 4502 | The White Cat | abdulghanli | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@abdulghanli/projects/the-white-cat) |
+| 4503 | THE WILD CREW  -  Mission in the Wild | hawkingopossum_solo | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@hawkingopossum_solo/projects/the-wild-crew-mission-in-the-wild) |
+| 4504 | The Wish Keepers | elite_remedy_maven | 0 | 2.9000 | 55 | Enhanced Seedance 2.0 Fast Unlimited (50.9091%); Nano Banana Pro (49.0909%) | [Source](https://higgsfield.ai/@elite_remedy_maven/projects/the-wish-keepers) |
+| 4505 | The Wooden Biplane That Built a Pilot | playfulpretzel1612 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@playfulpretzel1612/projects/the-wooden-biplane-that-built-a-pilot) |
+| 4506 | The World I Drew | fatmaessa | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@fatmaessa/projects/ai-film-festival-2) |
+| 4507 | The World's Strongest Assassin Become A Dad | craftingavocado1563 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@craftingavocado1563/projects/the-world-s-strongest-assassin-become-a-dad) |
+| 4508 | THE YELLOW EMPRESS | colonialtiger1423 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@colonialtiger1423/projects/the-yellow-empress) |
+| 4509 | The Youngest Council Member | mysticaltiger1386 | 0 | 2.0000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@mysticaltiger1386/projects/the-youngest-council-member) |
+| 4510 | Thirst of the Hills | shariartawsif | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@shariartawsif/projects/thirst-of-the-hills) |
+| 4511 | Those Behind Us | aidoskabiden | 0 | 2.3000 | 0 | Not available | [Source](https://higgsfield.ai/@aidoskabiden/projects/those-behind-us) |
+| 4512 | THROUGH CHILDREN’S EYES | baigali98kz | 0 | 2.1000 | 1 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@baigali98kz/projects/through-children-s-eyes) |
+| 4513 | Through the jungle | thinkingsoda1508 | 0 | 2.0000 | 1 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@thinkingsoda1508/projects/through-the-jungle) |
+| 4514 | Time Runner | discoveringgiraffe_super | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@discoveringgiraffe_super/projects/time-runner) |
+| 4515 | Timeless Dream Scapes - A Visual Ode to Nagaland | mondriancarrot1866 | 0 | 2.9000 | 0 | Not available | [Source](https://higgsfield.ai/@mondriancarrot1866/projects/ai-film-festival) |
+| 4516 | Tiny Paws Lullaby | grizzfriends | 0 | 0.0004 | 0 | Not available | [Source](https://higgsfield.ai/@grizzfriends/projects/tiny-paws-lullaby) |
+| 4517 | to the new world | chiragkumar33 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@chiragkumar33/projects/to-the-new-world) |
+| 4518 | Tomochic | azael_azufre | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@azael_azufre/projects/tomochic) |
+| 4519 | TRACKERS:AFTERMATH | prairieraven_lol | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@prairieraven_lol/projects/trackers-aftermath) |
+| 4520 | Uncertain Destiny - A New President | alex_rosmon | 0 | 4.1000 | 0 | Not available | [Source](https://higgsfield.ai/@alex_rosmon/projects/uncertain-destiny-a-new-president) |
+| 4521 | Under the Mask (Spy story) | adaptivechinchilla1813 | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@adaptivechinchilla1813/projects/ai-film-festival) |
+| 4522 | Under the Moonlight II - Oficial Music Video by Rosenkröjz & @ideaswarehouse | adventuringstrawberry1363 | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@adventuringstrawberry1363/projects/under-the-moonlight-ii-oficial-music-video-by-rosenkr-jz-ide) |
+| 4523 | UNDERNEATH | byzantine_narwhal_mini | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@byzantine_narwhal_mini/projects/underneath) |
+| 4524 | Vargan | quantumpulse | 0 | 2.5000 | 0 | Not available | [Source](https://higgsfield.ai/@quantumpulse/projects/vargan) |
+| 4525 | Vasbyt - A Film About a Rhino, and Why I Made One in Bronze | abstract_pen_1064 | 0 | 3.3000 | 0 | Not available | [Source](https://higgsfield.ai/@abstract_pen_1064/projects/vasbyt-a-film-about-a-rhino-and-why-i-made-one-in-bronze) |
+| 4526 | Velvet Neons - Permanent Weekend - music video | purpleadder | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@purpleadder/projects/velvet-neons-permanent-weekend-music-video) |
+| 4527 | VENICE festival | runningeraser_alpha | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@runningeraser_alpha/projects/venice-festival) |
+| 4528 | Vienna in Motion | boldsapphire1388 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@boldsapphire1388/projects/vienna-in-motion) |
+| 4529 | Viewing Discretion | studio-psumo | 0 | 3.1000 | 111 | Nano Banana Pro (83.7838%); Seedance 2.5 (16.2162%) | [Source](https://higgsfield.ai/@studio-psumo/projects/d040c69f-3d4a-418b-82dd-3e9ca4404417) |
+| 4530 | War of the Dragons | tarekzidan333 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@tarekzidan333/projects/war-of-the-dragons) |
+| 4531 | wasp | bauhausmoon1579 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@bauhausmoon1579/projects/wasp) |
+| 4532 | Welcome to Utopia | imaginingtaco1436 | 0 | 5.5000 | 260 | Seedance 2.5 (100.0000%) | [Source](https://higgsfield.ai/@imaginingtaco1436/projects/welcome-to-utopia) |
+| 4533 | What Remains | prismaistudio | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@prismaistudio/projects/what-remains) |
+| 4534 | What told him | green_kangaroo_1055 | 0 | 3.9000 | 0 | Not available | [Source](https://higgsfield.ai/@green_kangaroo_1055/projects/what-told-him) |
+| 4535 | When the Water Falls / Quando a Água Baixa | ivaldotrentin | 0 | 2.1000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@ivaldotrentin/projects/when-the-water-falls-quando-a-gua-baixa) |
+| 4536 | WHO IS LILLY? (2026) \| Al Psychological Thriller Short Film \| Higgsfield Al Film Festival | amberologie | 0 | 3.0000 | 1 | Nano Banana Pro (100.0000%) | [Source](https://higgsfield.ai/@amberologie/projects/who-is-lilly-2026-al-psychological-thriller-short-film-higgs) |
+| 4537 | Why One Electron Builds an Interference Pattern by Itself | bear_brown | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@bear_brown/projects/why-one-electron-builds-an-interference-pattern-by-itself) |
+| 4538 | Wild Donkey | calderpancake1782 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@calderpancake1782/projects/wild-donkey) |
+| 4539 | WIZARD OF THE NORTH | kalykazz | 0 | 2.6000 | 0 | Not available | [Source](https://higgsfield.ai/@kalykazz/projects/ai-film-festival-2) |
+| 4540 | Wohi Khuda He | faizan_arshad | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@faizan_arshad/projects/wohi-khuda-he) |
+| 4541 | WORLD OF THE DEAD | chillingcheese1431 | 0 | 3.9000 | 0 | Not available | [Source](https://higgsfield.ai/@chillingcheese1431/projects/world-of-the-dead) |
+| 4542 | World's First Real Human Face Ai Movie 2hr 32m Fully Ai Generated | sdbc_production | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@sdbc_production/projects/ai-film-festival) |
+| 4543 | WWIII | nahron07 | 0 | 2.9000 | 0 | Not available | [Source](https://higgsfield.ai/@nahron07/projects/wwiii) |
+| 4544 | Xiaoyu’s Mouse Genie | fishyu | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@fishyu/projects/xiaoyu-s-mouse-genie) |
+| 4545 | YOON WI | van_goghstrawberry1781 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@van_goghstrawberry1781/projects/yoon-wi) |
+| 4546 | YOU AGAIN! | zoomingseal1316 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@zoomingseal1316/projects/ai-film-festival-2) |
+| 4547 | YUGA | speeding_snow_1027 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@speeding_snow_1027/projects/yuga) |
+| 4548 | ZEPHYR | damirash | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@damirash/projects/zephyr) |
+| 4549 | ZombieSchool | blacklabproductions | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@blacklabproductions/projects/zombieschool) |
+| 4550 | ¿Qué falta? | trainingmoon1526 | 0 | 2.1000 | 79 | Seedance 2.0 Unlimited (67.0886%); Nano Banana 2 (30.3797%); Seedream 4.5 (1.2658%); Nano Banana Pro Unlimited (1.2658%) | [Source](https://higgsfield.ai/@trainingmoon1526/projects/qu-falta) |
+| 4551 | Он превратил Ад в Рай | 132 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@132/projects/on-prevratil-ad-v-ray) |
+| 4552 | سعيد بن زيد \| صاحب الدعوة القاتلة وأحد المبشرين بالجنة | mohamedic3 | 0 | 2.4000 | 0 | Not available | [Source](https://higgsfield.ai/@mohamedic3/projects/) |
+| 4553 | 《The Last "Dragon" That Killed Him》 | twinkling_carrot_1037 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@twinkling_carrot_1037/projects/the-last-dragon-that-killed-him) |
+| 4554 | 《春風》～ Ming Wah events （预告片 Trailer） | blueprintparrot1808 | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@blueprintparrot1808/projects/ming-wah-events-trailer) |
+| 4555 | 超时空霹雳花 | a_wu_i | 0 | 2.0000 | 0 | Not available | [Source](https://higgsfield.ai/@a_wu_i/projects/) |
+| 4556 | 검은 파도의 끝 | flowingwombat1359 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@flowingwombat1359/projects/) |
+| 4557 | 길티 플레저 Guilty Pleasure | fourierdeer1671 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@fourierdeer1671/projects/guilty-pleasure) |
+| 4558 | 무인 경비대 The Last Patrol | fourierdeer1671 | 0 | 2.1000 | 0 | Not available | [Source](https://higgsfield.ai/@fourierdeer1671/projects/the-last-patrol) |
+| 4559 | 𝔈𝔵𝔞𝔩𝔱𝔞𝔱𝔦𝔬𝔫 𝔬𝔣 𝔱𝔥𝔢 𝔏𝔞𝔱𝔯𝔬𝔡𝔢𝔠𝔱𝔲𝔰 𝔞𝔫𝔡 𝔱𝔥𝔢 𝔒𝔟𝔰𝔦𝔡𝔦𝔞𝔫 𝔐𝔦𝔯𝔯𝔬𝔯 | mirrorreaper1313 | 0 | 3.1000 | 1 | Soul Cinematic (100.0000%) | [Source](https://higgsfield.ai/@mirrorreaper1313/projects/) |
+| 4560 | 🔥Skárdis Ironblood🔥 | ervfgr | 0 | 10.7000 | 0 | Not available | [Source](https://higgsfield.ai/@ervfgr/projects/sk-rdis-ironblood) |
+| 4561 | 🥇 The Last War 1 | khalid_mohamed_1 | 0 | 2.2000 | 0 | Not available | [Source](https://higgsfield.ai/@khalid_mohamed_1/projects/the-last-war-1) |
 
 ## Method
 
-Public Higgsfield project metadata is matched by ID or published project slug. The previously reviewed film set defines the scope. Totals count each distinct public project once. Hell Grind and its pilot share one public project. Published zero credits or size do not establish zero actual production cost.
+Public Higgsfield project metadata is matched by ID or published project slug. The previously reviewed film set defines the scope. Totals count each distinct public project once. Published zero credits or size do not establish zero actual production cost.
 
 Project size is not final video size or unique storage. Decimal units: MB / 1,000; TB × 1,000. Credits describe public project usage, including published generation history. Model shares preserve source precision; aggregate weights cover only projects with available model data.
 

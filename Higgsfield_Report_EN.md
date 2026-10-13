@@ -148,11 +148,7 @@ Model shares are weighted by project generation counts, not credits. Denominator
 | Next Shots | 0.0001% | 1.00 | 1 |
 | Video Background Remover | 0.0001% | 1.00 | 1 |
 
-## Coverage and votes
-
-Public project metadata retrieved: 4,570. Film entries without project metadata: 2. Model stacks available: 4,075. Numeric public vote totals found: 0.
-
-Voting eligibility and authenticated user vote slots are not aggregate film votes. Shared Originals/series code includes vote_count/voteCount; no numeric festival vote count was found in inspected public project payloads. Missing values remain Not available.
+Estimated total credit value: **$1,210,275 USD**, using approximately 22 credits per USD. Model estimates allocate this total by generation share, not measured model-specific spending.
 
 ## Reviewed Higgsfield films
 
